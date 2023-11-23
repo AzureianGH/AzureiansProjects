@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Friend Dictionary\bin\Debug\net7.0\Friend Dictionary.exe
+C:\Users\alexm\source\repos\Friend Dictionary\bin\Debug\net7.0\Friend Dictionary.deps.json
+C:\Users\alexm\source\repos\Friend Dictionary\bin\Debug\net7.0\Friend Dictionary.runtimeconfig.json
+C:\Users\alexm\source\repos\Friend Dictionary\bin\Debug\net7.0\Friend Dictionary.dll
+C:\Users\alexm\source\repos\Friend Dictionary\bin\Debug\net7.0\Friend Dictionary.pdb
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.dll
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\refint\Friend Dictionary.dll
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.pdb
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\Friend Dictionary.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Friend Dictionary\obj\Debug\net7.0\ref\Friend Dictionary.dll

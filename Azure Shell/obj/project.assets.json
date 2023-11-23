@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "chocolatey/2.2.2": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "chocolatey/2.2.2": {
+      "sha512": "nEfrtV+QAhG1x6Qt+HAODd5tjjyKfb9PFq/BEiMfhsvqW49zw6uh+aDi+V44z28i+l4SNnHZrXunypaqnXf0QQ==",
+      "type": "package",
+      "path": "chocolatey/2.2.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "chocolatey.2.2.2.nupkg.sha512",
+        "chocolatey.nuspec",
+        "tools/VERIFICATION.txt",
+        "tools/chocolateyInstall.ps1",
+        "tools/chocolateyInstall/CREDITS.txt",
+        "tools/chocolateyInstall/LICENSE.txt",
+        "tools/chocolateyInstall/choco.exe",
+        "tools/chocolateyInstall/choco.exe.ignore",
+        "tools/chocolateyInstall/choco.exe.manifest",
+        "tools/chocolateyInstall/helpers/ChocolateyTabExpansion.ps1",
+        "tools/chocolateyInstall/helpers/chocolateyInstaller.psm1",
+        "tools/chocolateyInstall/helpers/chocolateyProfile.psm1",
+        "tools/chocolateyInstall/helpers/chocolateyScriptRunner.ps1",
+        "tools/chocolateyInstall/helpers/functions/Format-FileSize.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-CheckSumValid.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-ChocolateyConfigValue.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-ChocolateyPath.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-ChocolateyUnzip.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-ChocolateyWebFile.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-EnvironmentVariable.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-EnvironmentVariableNames.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-FtpFile.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-OSArchitectureWidth.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-PackageParameters.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-ToolsLocation.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-UACEnabled.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-UninstallRegistryKey.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-VirusCheckValid.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-WebFile.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-WebFileName.ps1",
+        "tools/chocolateyInstall/helpers/functions/Get-WebHeaders.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-BinFile.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyEnvironmentVariable.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyExplorerMenuItem.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyFileAssociation.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyInstallPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyPath.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyPinnedTaskBarItem.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyPowershellCommand.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyShortcut.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyVsixPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-ChocolateyZipPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Install-Vsix.ps1",
+        "tools/chocolateyInstall/helpers/functions/Set-EnvironmentVariable.ps1",
+        "tools/chocolateyInstall/helpers/functions/Set-PowerShellExitCode.ps1",
+        "tools/chocolateyInstall/helpers/functions/Start-ChocolateyProcessAsAdmin.ps1",
+        "tools/chocolateyInstall/helpers/functions/Test-ProcessAdminRights.ps1",
+        "tools/chocolateyInstall/helpers/functions/UnInstall-ChocolateyZipPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Uninstall-BinFile.ps1",
+        "tools/chocolateyInstall/helpers/functions/Uninstall-ChocolateyEnvironmentVariable.ps1",
+        "tools/chocolateyInstall/helpers/functions/Uninstall-ChocolateyPackage.ps1",
+        "tools/chocolateyInstall/helpers/functions/Update-SessionEnvironment.ps1",
+        "tools/chocolateyInstall/helpers/functions/Write-FunctionCallLogMessage.ps1",
+        "tools/chocolateyInstall/redirects/RefreshEnv.cmd",
+        "tools/chocolateyInstall/redirects/choco.exe",
+        "tools/chocolateyInstall/redirects/choco.exe.ignore",
+        "tools/chocolateyInstall/tools/7z.dll",
+        "tools/chocolateyInstall/tools/7z.dll.manifest",
+        "tools/chocolateyInstall/tools/7z.exe",
+        "tools/chocolateyInstall/tools/7z.exe.ignore",
+        "tools/chocolateyInstall/tools/7z.exe.manifest",
+        "tools/chocolateyInstall/tools/7zip.license.txt",
+        "tools/chocolateyInstall/tools/checksum.exe",
+        "tools/chocolateyInstall/tools/checksum.exe.config",
+        "tools/chocolateyInstall/tools/checksum.exe.ignore",
+        "tools/chocolateyInstall/tools/checksum.license.txt",
+        "tools/chocolateyInstall/tools/shimgen.exe",
+        "tools/chocolateyInstall/tools/shimgen.exe.ignore",
+        "tools/chocolateyInstall/tools/shimgen.license.txt",
+        "tools/chocolateysetup.psm1",
+        "tools/init.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "chocolatey >= 2.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alexm\\.nuget\\packages\\": {},
+    "E:\\SharedMS\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alexm\\source\\repos\\Azure Shell\\Azure Shell.csproj",
+      "projectName": "Azure Shell",
+      "projectPath": "C:\\Users\\alexm\\source\\repos\\Azure Shell\\Azure Shell.csproj",
+      "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexm\\source\\repos\\Azure Shell\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\SharedMS\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\alexm\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "chocolatey": {
+            "target": "Package",
+            "version": "[2.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

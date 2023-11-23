@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Azuri\CrashHandler\bin\Release\net7.0-windows\CrashHandler.exe
+C:\Users\alexm\source\repos\Azuri\CrashHandler\bin\Release\net7.0-windows\CrashHandler.deps.json
+C:\Users\alexm\source\repos\Azuri\CrashHandler\bin\Release\net7.0-windows\CrashHandler.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri\CrashHandler\bin\Release\net7.0-windows\CrashHandler.dll
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\Azuri_Editor.Form2.resources
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.dll
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\refint\CrashHandler.dll
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\CrashHandler.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri\CrashHandler\obj\Release\net7.0-windows\ref\CrashHandler.dll

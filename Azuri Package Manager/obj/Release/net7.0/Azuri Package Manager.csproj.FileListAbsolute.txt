@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Azuri Package Manager\bin\Release\net7.0\Azuri Package Manager.exe
+C:\Users\alexm\source\repos\Azuri Package Manager\bin\Release\net7.0\Azuri Package Manager.deps.json
+C:\Users\alexm\source\repos\Azuri Package Manager\bin\Release\net7.0\Azuri Package Manager.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri Package Manager\bin\Release\net7.0\Azuri Package Manager.dll
+C:\Users\alexm\source\repos\Azuri Package Manager\bin\Release\net7.0\Azuri Package Manager.pdb
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.dll
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\refint\Azuri Package Manager.dll
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.pdb
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\Azuri Package Manager.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri Package Manager\obj\Release\net7.0\ref\Azuri Package Manager.dll

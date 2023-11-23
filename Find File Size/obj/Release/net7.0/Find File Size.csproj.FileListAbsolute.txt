@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Find File Size\bin\Release\net7.0\Find File Size.exe
+C:\Users\alexm\source\repos\Find File Size\bin\Release\net7.0\Find File Size.deps.json
+C:\Users\alexm\source\repos\Find File Size\bin\Release\net7.0\Find File Size.runtimeconfig.json
+C:\Users\alexm\source\repos\Find File Size\bin\Release\net7.0\Find File Size.dll
+C:\Users\alexm\source\repos\Find File Size\bin\Release\net7.0\Find File Size.pdb
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.dll
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\refint\Find File Size.dll
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.pdb
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\Find File Size.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Find File Size\obj\Release\net7.0\ref\Find File Size.dll

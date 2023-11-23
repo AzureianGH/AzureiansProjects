@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\python311\python311.nupkg" checksum="638D2C054657A460FF989BB90FF1CB09" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\python311.nuspec" checksum="A123489F1786C8E8F86E43830481446D" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\legal\LICENSE.txt" checksum="3FBFBB88B1C6F11A666EB20C490B6DD6" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\legal\VERIFICATION.txt" checksum="80A3FCCA8A367BE8AE66BD0A843458D7" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\tools\chocolateyInstall.ps1" checksum="15CE5D36396BD477824137B3CC287B8B" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\tools\chocolateyUninstall.ps1" checksum="54E28B2E143FF2A087DDCE309594D47B" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\tools\helpers.ps1" checksum="14E9B7A56D77A26448926D5E522E64C6" />
+    <file path="C:\ProgramData\chocolatey\lib\python311\tools\python-3.11.4-amd64.exe.ignore" checksum="BEA07E6D2B8DCE396FE21BAA61B34956" />
+  </files>
+</fileSnapshot>

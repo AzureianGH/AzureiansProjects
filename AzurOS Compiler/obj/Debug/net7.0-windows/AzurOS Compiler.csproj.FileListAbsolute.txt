@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\AzurOS Compiler\bin\Debug\net7.0-windows\AzurOS Compiler.exe
+C:\Users\alexm\source\repos\AzurOS Compiler\bin\Debug\net7.0-windows\AzurOS Compiler.deps.json
+C:\Users\alexm\source\repos\AzurOS Compiler\bin\Debug\net7.0-windows\AzurOS Compiler.runtimeconfig.json
+C:\Users\alexm\source\repos\AzurOS Compiler\bin\Debug\net7.0-windows\AzurOS Compiler.dll
+C:\Users\alexm\source\repos\AzurOS Compiler\bin\Debug\net7.0-windows\AzurOS Compiler.pdb
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS_Compiler.Form1.resources
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.AssemblyInfo.cs
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.dll
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\refint\AzurOS Compiler.dll
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.pdb
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\AzurOS Compiler.genruntimeconfig.cache
+C:\Users\alexm\source\repos\AzurOS Compiler\obj\Debug\net7.0-windows\ref\AzurOS Compiler.dll

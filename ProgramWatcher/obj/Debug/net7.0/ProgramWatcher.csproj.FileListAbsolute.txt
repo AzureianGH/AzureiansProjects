@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\ProgramWatcher\bin\Debug\net7.0\ProgramWatcher.exe
+C:\Users\alexm\source\repos\ProgramWatcher\bin\Debug\net7.0\ProgramWatcher.deps.json
+C:\Users\alexm\source\repos\ProgramWatcher\bin\Debug\net7.0\ProgramWatcher.runtimeconfig.json
+C:\Users\alexm\source\repos\ProgramWatcher\bin\Debug\net7.0\ProgramWatcher.dll
+C:\Users\alexm\source\repos\ProgramWatcher\bin\Debug\net7.0\ProgramWatcher.pdb
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.AssemblyInfo.cs
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.dll
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\refint\ProgramWatcher.dll
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.pdb
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ProgramWatcher.genruntimeconfig.cache
+C:\Users\alexm\source\repos\ProgramWatcher\obj\Debug\net7.0\ref\ProgramWatcher.dll

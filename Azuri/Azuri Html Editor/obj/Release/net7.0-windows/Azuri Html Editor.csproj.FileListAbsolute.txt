@@ -1,0 +1,28 @@
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\Azuri Html Editor.exe
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\Azuri Html Editor.deps.json
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\Azuri Html Editor.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\Azuri Html Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\HtmlRenderer.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\HtmlRenderer.WinForms.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri_Html_Editor.Form1.resources
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.csproj.CopyComplete
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\refint\Azuri Html Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\Azuri Html Editor.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\obj\Release\net7.0-windows\ref\Azuri Html Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\WSF.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\Javi.ExplorerTreeView.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\de-DE\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\es-ES\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\fr-FR\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\hi-IN\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\it-IT\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\ja-JP\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\ru-RU\WSF.resources.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Html Editor\bin\Release\net7.0-windows\zh-CHS\WSF.resources.dll

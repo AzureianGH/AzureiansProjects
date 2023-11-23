@@ -1,0 +1,16 @@
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\phash.exe
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\plicense.txt
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\phash.deps.json
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\phash.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\phash.dll
+C:\Users\alexm\source\repos\HydrixR\phash\bin\Release\net7.0\phash.pdb
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.dll
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\refint\phash.dll
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.pdb
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\phash.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\phash\obj\Release\net7.0\ref\phash.dll

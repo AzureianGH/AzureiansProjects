@@ -1,0 +1,303 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Dirkster.WSF/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net4/WSF.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net4/WSF.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "resource": {
+          "lib/net4/de-DE/WSF.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net4/es-ES/WSF.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net4/fr-FR/WSF.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net4/hi-IN/WSF.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "lib/net4/it-IT/WSF.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net4/ja-JP/WSF.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net4/ru-RU/WSF.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net4/zh-CHS/WSF.resources.dll": {
+            "locale": "zh-CHS"
+          }
+        }
+      },
+      "HtmlRenderer.Core/1.5.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/HtmlRenderer.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/HtmlRenderer.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "HtmlRenderer.WinForms/1.5.0.6": {
+        "type": "package",
+        "dependencies": {
+          "HtmlRenderer.Core": "1.5.0.5"
+        },
+        "compile": {
+          "lib/net45/HtmlRenderer.WinForms.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/HtmlRenderer.WinForms.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Javi.ExplorerTreeView/1.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Dirkster.WSF": "1.1.1"
+        },
+        "compile": {
+          "lib/net4/Javi.ExplorerTreeView.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net4/Javi.ExplorerTreeView.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dirkster.WSF/1.1.1": {
+      "sha512": "1M31c+Z6DWAkYvNyF7tGN5J9aKMyPnZVcW5cWakJQXjuTcQwNXXcLaa3mHQN6cwPLjhfGyw9/797HJKK0/dVvA==",
+      "type": "package",
+      "path": "dirkster.wsf/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dirkster.wsf.1.1.1.nupkg.sha512",
+        "dirkster.wsf.nuspec",
+        "lib/net4/WSF.dll",
+        "lib/net4/WSF.pdb",
+        "lib/net4/WSF.xml",
+        "lib/net4/de-DE/WSF.resources.dll",
+        "lib/net4/es-ES/WSF.resources.dll",
+        "lib/net4/fr-FR/WSF.resources.dll",
+        "lib/net4/hi-IN/WSF.resources.dll",
+        "lib/net4/it-IT/WSF.resources.dll",
+        "lib/net4/ja-JP/WSF.resources.dll",
+        "lib/net4/ru-RU/WSF.resources.dll",
+        "lib/net4/zh-CHS/WSF.resources.dll",
+        "license/license.txt"
+      ]
+    },
+    "HtmlRenderer.Core/1.5.0.6": {
+      "sha512": "/WPVhzNmILIOJ1vtoiQXP7y7MJirCpHn/jqFw38wU0vv1XXbSpR2bTStmaiI2Pb2JLjnPMrVGR/7T7zKlAaaHw==",
+      "type": "package",
+      "path": "htmlrenderer.core/1.5.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "htmlrenderer.core.1.5.0.6.nupkg.sha512",
+        "htmlrenderer.core.nuspec",
+        "lib/net20/HtmlRenderer.dll",
+        "lib/net20/HtmlRenderer.pdb",
+        "lib/net30/HtmlRenderer.dll",
+        "lib/net30/HtmlRenderer.pdb",
+        "lib/net35-client/HtmlRenderer.dll",
+        "lib/net35-client/HtmlRenderer.pdb",
+        "lib/net40-client/HtmlRenderer.dll",
+        "lib/net40-client/HtmlRenderer.pdb",
+        "lib/net45/HtmlRenderer.dll",
+        "lib/net45/HtmlRenderer.pdb"
+      ]
+    },
+    "HtmlRenderer.WinForms/1.5.0.6": {
+      "sha512": "yaaiNW2nMWQa9cwocR7jLy9/+3g/TomMszODWm8z9DCWxIYz6K5marKBw1YZHnpKA6xS/LQYB2YEikE1OqDQ8Q==",
+      "type": "package",
+      "path": "htmlrenderer.winforms/1.5.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "htmlrenderer.winforms.1.5.0.6.nupkg.sha512",
+        "htmlrenderer.winforms.nuspec",
+        "lib/net20/HtmlRenderer.WinForms.dll",
+        "lib/net20/HtmlRenderer.WinForms.pdb",
+        "lib/net35-client/HtmlRenderer.WinForms.dll",
+        "lib/net35-client/HtmlRenderer.WinForms.pdb",
+        "lib/net40-client/HtmlRenderer.WinForms.dll",
+        "lib/net40-client/HtmlRenderer.WinForms.pdb",
+        "lib/net45/HtmlRenderer.WinForms.dll",
+        "lib/net45/HtmlRenderer.WinForms.pdb",
+        "readme.txt"
+      ]
+    },
+    "Javi.ExplorerTreeView/1.0.4": {
+      "sha512": "FQcg1CXBGh2vKJR2vOcQ5qHIwUhVKIdYgLHTHTSnV+WyMbo/4D1uustVjwPDJVjUWHRPerSpq6nQ5kAiMhg44Q==",
+      "type": "package",
+      "path": "javi.explorertreeview/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "javi.explorertreeview.1.0.4.nupkg.sha512",
+        "javi.explorertreeview.nuspec",
+        "lib/net4/Javi.ExplorerTreeView.dll",
+        "lib/net4/Javi.ExplorerTreeView.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "HtmlRenderer.Core >= 1.5.0.6",
+      "HtmlRenderer.WinForms >= 1.5.0.6",
+      "Javi.ExplorerTreeView >= 1.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alexm\\.nuget\\packages\\": {},
+    "E:\\SharedMS\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alexm\\source\\repos\\Azuri\\Azuri Html Editor\\Azuri Html Editor.csproj",
+      "projectName": "Azuri Html Editor",
+      "projectPath": "C:\\Users\\alexm\\source\\repos\\Azuri\\Azuri Html Editor\\Azuri Html Editor.csproj",
+      "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexm\\source\\repos\\Azuri\\Azuri Html Editor\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\SharedMS\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\alexm\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "HtmlRenderer.Core": {
+            "target": "Package",
+            "version": "[1.5.0.6, )"
+          },
+          "HtmlRenderer.WinForms": {
+            "target": "Package",
+            "version": "[1.5.0.6, )"
+          },
+          "Javi.ExplorerTreeView": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Dirkster.WSF 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Dirkster.WSF",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.Core 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.Core",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.WinForms 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.WinForms",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Javi.ExplorerTreeView 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Javi.ExplorerTreeView",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

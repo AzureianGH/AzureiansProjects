@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNL+tw4fw2t9h3Osfy9jrgx+BMwPW4ZcKXU2kZdfYd34oQSg03Zec0Sc3PdWqu0NBgED/sV5a/3tEC1rwAy9Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\Azuri\\AzuriHTMLEditor\\AzuriHTMLEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\explorertree\\1.0.0\\explorertree.1.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\htmlrenderer.core\\1.5.0.6\\htmlrenderer.core.1.5.0.6.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\htmlrenderer.wpf\\1.5.0.6\\htmlrenderer.wpf.1.5.0.6.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.web.webview2\\1.0.1901.177\\microsoft.web.webview2.1.0.1901.177.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ExplorerTree 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ExplorerTree",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.Core 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.Core",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.WPF 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.WPF",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

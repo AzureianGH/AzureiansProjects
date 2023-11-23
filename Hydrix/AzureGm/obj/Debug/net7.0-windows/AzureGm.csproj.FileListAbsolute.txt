@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\Hydrix\AzureGm\bin\Debug\net7.0-windows\AzureGm.exe
+C:\Users\alexm\source\repos\Hydrix\AzureGm\bin\Debug\net7.0-windows\AzureGm.deps.json
+C:\Users\alexm\source\repos\Hydrix\AzureGm\bin\Debug\net7.0-windows\AzureGm.runtimeconfig.json
+C:\Users\alexm\source\repos\Hydrix\AzureGm\bin\Debug\net7.0-windows\AzureGm.dll
+C:\Users\alexm\source\repos\Hydrix\AzureGm\bin\Debug\net7.0-windows\AzureGm.pdb
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.Form1.resources
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.dll
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\refint\AzureGm.dll
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.pdb
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\AzureGm.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Hydrix\AzureGm\obj\Debug\net7.0-windows\ref\AzureGm.dll

@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Fusion\bin\Debug\net7.0\Fusion.exe
+C:\Users\alexm\source\repos\Fusion\bin\Debug\net7.0\Fusion.deps.json
+C:\Users\alexm\source\repos\Fusion\bin\Debug\net7.0\Fusion.runtimeconfig.json
+C:\Users\alexm\source\repos\Fusion\bin\Debug\net7.0\Fusion.dll
+C:\Users\alexm\source\repos\Fusion\bin\Debug\net7.0\Fusion.pdb
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.dll
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\refint\Fusion.dll
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.pdb
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\Fusion.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Fusion\obj\Debug\net7.0\ref\Fusion.dll

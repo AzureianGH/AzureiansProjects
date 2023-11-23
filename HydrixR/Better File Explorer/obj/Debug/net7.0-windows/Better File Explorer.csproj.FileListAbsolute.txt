@@ -1,0 +1,19 @@
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Better File Explorer.exe
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Better File Explorer.deps.json
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Better File Explorer.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Better File Explorer.dll
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Better File Explorer.pdb
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\bin\Debug\net7.0-windows\Siticone.Desktop.UI.dll
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better_File_Explorer.Form1.resources
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.csproj.CopyComplete
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.dll
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\refint\Better File Explorer.dll
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.pdb
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\Better File Explorer.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\Better File Explorer\obj\Debug\net7.0-windows\ref\Better File Explorer.dll

@@ -1,0 +1,18 @@
+﻿  Assembling Main.asm...
+Main.asm(3): error A2008: syntax error : section
+Main.asm(4): error A2008: syntax error : global
+Main.asm(6): error A2008: syntax error : section
+Main.asm(7): error A2034: must be in segment block
+Main.asm(8): error A2034: must be in segment block
+Main.asm(10): error A2008: syntax error : section
+Main.asm(11): error A2034: must be in segment block
+Main.asm(12): error A2034: must be in segment block
+Main.asm(13): error A2034: must be in segment block
+Main.asm(14): error A2034: must be in segment block
+Main.asm(15): error A2034: must be in segment block
+Main.asm(16): error A2034: must be in segment block
+Main.asm(18): error A2034: must be in segment block
+Main.asm(19): error A2034: must be in segment block
+Main.asm(20): error A2034: must be in segment block
+Main.asm(20): error A2088: END directive required at end of file
+E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Main.obj" /W3 /errorReport:prompt  /TaMain.asm" exited with code 1.

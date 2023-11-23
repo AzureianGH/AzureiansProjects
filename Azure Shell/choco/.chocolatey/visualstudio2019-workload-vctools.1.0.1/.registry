@@ -1,0 +1,1246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-1780056644-2675235036-4013722132-1004</user>
+  <keys>
+    <key installerType="Msi" displayName="Application Verifier x64 External Package" displayVersion="10.1.19041.685">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8A4CD158-E6B3-6D91-D7DE-10098BC980E2}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{8A4CD158-E6B3-6D91-D7DE-10098BC980E2}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{8A4CD158-E6B3-6D91-D7DE-10098BC980E2}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196c6.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Tools arm64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{06E580FA-F3B2-08E9-4DC0-0AB55D985CBB}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{06E580FA-F3B2-08E9-4DC0-0AB55D985CBB}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{06E580FA-F3B2-08E9-4DC0-0AB55D985CBB}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219851.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows IoT Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{084094EF-6AC9-480A-7CC1-04199047BBDD}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{084094EF-6AC9-480A-7CC1-04199047BBDD}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{084094EF-6AC9-480A-7CC1-04199047BBDD}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219788.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense UAP - en-us" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0AF3B821-474B-1885-473A-6E3FB4F1CF71}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{0AF3B821-474B-1885-473A-6E3FB4F1CF71}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{0AF3B821-474B-1885-473A-6E3FB4F1CF71}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219762.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps DirectX x86 Remote" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0E2FEA3B-C853-DE2A-8A04-BB7D5BF010E0}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{0E2FEA3B-C853-DE2A-8A04-BB7D5BF010E0}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{0E2FEA3B-C853-DE2A-8A04-BB7D5BF010E0}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197dc.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense PPI - en-us" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{15E29AFF-CB19-A20B-9A81-B0765A63115F}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{15E29AFF-CB19-A20B-9A81-B0765A63115F}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{15E29AFF-CB19-A20B-9A81-B0765A63115F}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121977c.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Libs x64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{170B023D-7C1B-2EF4-D3E9-B974A26752AC}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{170B023D-7C1B-2EF4-D3E9-B974A26752AC}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{170B023D-7C1B-2EF4-D3E9-B974A26752AC}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121982c.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Tools x86" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1C966E96-8553-EF1E-A06F-A8174B3CAA60}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{1C966E96-8553-EF1E-A06F-A8174B3CAA60}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{1C966E96-8553-EF1E-A06F-A8174B3CAA60}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121981e.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps Libs" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1FBBD022-F751-FE7B-54DF-9FED23892B2F}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{1FBBD022-F751-FE7B-54DF-9FED23892B2F}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{1FBBD022-F751-FE7B-54DF-9FED23892B2F}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197d3.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense IoT - Other Languages" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{216D5F47-257D-6284-5849-B51037875EFA}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{216D5F47-257D-6284-5849-B51037875EFA}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{216D5F47-257D-6284-5849-B51037875EFA}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219800.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps Contracts" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2A8533B3-8D16-67E4-E729-5BB04EDD2FE4}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{2A8533B3-8D16-67E4-E729-5BB04EDD2FE4}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{2A8533B3-8D16-67E4-E729-5BB04EDD2FE4}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121972d.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Libs arm" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2AC29D7B-F29F-34FA-4434-C5DF1F086264}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{2AC29D7B-F29F-34FA-4434-C5DF1F086264}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{2AC29D7B-F29F-34FA-4434-C5DF1F086264}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219842.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinAppDeploy" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2ADF1977-BF31-E127-B651-AC28A8658317}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{2ADF1977-BF31-E127-B651-AC28A8658317}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{2ADF1977-BF31-E127-B651-AC28A8658317}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219718.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps Metadata" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2CFB2180-7C20-5470-4B8A-747512A6AB70}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{2CFB2180-7C20-5470-4B8A-747512A6AB70}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{2CFB2180-7C20-5470-4B8A-747512A6AB70}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196f1.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Facade Windows WinMD Versioned" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2D296649-CFBE-CF23-EA8E-E24554187B3F}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{2D296649-CFBE-CF23-EA8E-E24554187B3F}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{2D296649-CFBE-CF23-EA8E-E24554187B3F}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219734.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense IoT - en-us" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3335615C-ABEB-960E-2226-4274CD28E046}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{3335615C-ABEB-960E-2226-4274CD28E046}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{3335615C-ABEB-960E-2226-4274CD28E046}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219776.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Headers x86" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3D5981B5-ABF0-1495-7FC3-102D1C75B9C8}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{3D5981B5-ABF0-1495-7FC3-102D1C75B9C8}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{3D5981B5-ABF0-1495-7FC3-102D1C75B9C8}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121980f.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense Mobile - en-us" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{443FF51E-16C3-F23B-18FC-0D1D66024B0B}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{443FF51E-16C3-F23B-18FC-0D1D66024B0B}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{443FF51E-16C3-F23B-18FC-0D1D66024B0B}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219769.msi]]></LocalPackage>
+    </key>
+    <key installerType="Custom" displayName="Windows Software Development Kit - Windows 10.0.19041.685" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4591faf1-a2db-4a3d-bfda-aa5a4ebb1587}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA["C:\ProgramData\Package Cache\{4591faf1-a2db-4a3d-bfda-aa5a4ebb1587}\winsdksetup.exe" /uninstall /quiet]]></UninstallString>
+      <HasQuietUninstall>true</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate />
+      <InstallSource><![CDATA[]]></InstallSource>
+      <Language />
+      <Version />
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>false</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+    </key>
+    <key installerType="Msi" displayName="Windows IoT Extension SDK Contracts" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{497B2D49-F5C2-CA3B-05FF-22ABF39F2873}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{497B2D49-F5C2-CA3B-05FF-22ABF39F2873}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{497B2D49-F5C2-CA3B-05FF-22ABF39F2873}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219782.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps Tools" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4AC6C7FB-D848-9D68-DCB0-1376083FEA3A}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{4AC6C7FB-D848-9D68-DCB0-1376083FEA3A}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{4AC6C7FB-D848-9D68-DCB0-1376083FEA3A}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219701.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Headers arm" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4BD2B107-B0D3-850C-7135-ACA153D30C78}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{4BD2B107-B0D3-850C-7135-ACA153D30C78}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{4BD2B107-B0D3-850C-7135-ACA153D30C78}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121983b.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Universal CRT Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4D69FB64-4443-F2DD-DE1C-F14FD98AAC59}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{4D69FB64-4443-F2DD-DE1C-F14FD98AAC59}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{4D69FB64-4443-F2DD-DE1C-F14FD98AAC59}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197b1.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="vs_communitymsi" displayVersion="16.11.31911">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5C127D2C-BC0B-44B8-A1A5-34E9E7A116FC}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{5C127D2C-BC0B-44B8-A1A5-34E9E7A116FC}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[E:\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Community.Msi,version=16.11.31911.129\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>269188263</Version>
+      <VersionMajor>16</VersionMajor>
+      <VersionMinor>11</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219888.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows Team Extension SDK Contracts" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5F616EBF-DF09-A2DA-AB66-3A5341FA611C}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{5F616EBF-DF09-A2DA-AB66-3A5341FA611C}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{5F616EBF-DF09-A2DA-AB66-3A5341FA611C}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219796.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Universal CRT Headers Libraries and Sources" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6B56745A-F6A4-C51C-933A-AD96C00683EA}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{6B56745A-F6A4-C51C-933A-AD96C00683EA}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{6B56745A-F6A4-C51C-933A-AD96C00683EA}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121975b.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows Mobile Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{718C25EB-084C-6341-1C3E-589DA641C28F}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{718C25EB-084C-6341-1C3E-589DA641C28F}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{718C25EB-084C-6341-1C3E-589DA641C28F}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197a7.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows Mobile Extension SDK Contracts" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7A9E937D-9757-80CB-A6E3-F4AB6081AEA6}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{7A9E937D-9757-80CB-A6E3-F4AB6081AEA6}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{7A9E937D-9757-80CB-A6E3-F4AB6081AEA6}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121979d.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="MSI Development Tools" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7AAC93B0-F3D7-6B24-6B37-9E74980C1C81}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{7AAC93B0-F3D7-6B24-6B37-9E74980C1C81}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{7AAC93B0-F3D7-6B24-6B37-9E74980C1C81}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196df.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Libs x86" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7DD1F495-F1BF-6A30-620F-AC064DD302D8}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{7DD1F495-F1BF-6A30-620F-AC064DD302D8}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{7DD1F495-F1BF-6A30-620F-AC064DD302D8}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219816.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="vs_minshellmsi" displayVersion="16.11.33130">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{87EB7AA1-6FF4-4B24-9DB6-645C019B4C87}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{87EB7AA1-6FF4-4B24-9DB6-645C019B4C87}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[E:\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Msi,version=16.11.33130.273\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>269189482</Version>
+      <VersionMajor>16</VersionMajor>
+      <VersionMinor>11</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121986d.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense UAP - Other Languages" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8832F8ED-1035-9ABE-FD73-4E5ABAA84A5C}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{8832F8ED-1035-9ABE-FD73-4E5ABAA84A5C}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{8832F8ED-1035-9ABE-FD73-4E5ABAA84A5C}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197eb.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="vs_minshellinteropmsi" displayVersion="16.10.31306">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{883D29E5-9A41-4C45-A192-C10B8078BF0C}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{883D29E5-9A41-4C45-A192-C10B8078BF0C}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[E:\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Interop.Msi,version=16.10.31306.167\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>269122122</Version>
+      <VersionMajor>16</VersionMajor>
+      <VersionMinor>10</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219873.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Apps Headers" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8E9DD3FE-3338-8012-81C5-F3AA9B617BAE}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{8E9DD3FE-3338-8012-81C5-F3AA9B617BAE}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{8E9DD3FE-3338-8012-81C5-F3AA9B617BAE}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197c9.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK ARM Desktop Tools" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{940042ED-CB90-8E03-BE68-DF8A76E661FD}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{940042ED-CB90-8E03-BE68-DF8A76E661FD}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{940042ED-CB90-8E03-BE68-DF8A76E661FD}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121984a.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Libs arm64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9555AB64-6A00-776F-CA44-568E0E7B9632}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{9555AB64-6A00-776F-CA44-568E0E7B9632}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{9555AB64-6A00-776F-CA44-568E0E7B9632}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121985f.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows Desktop Extension SDK Contracts" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A34A6580-86EF-A26A-33A5-80E1919B7F75}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{A34A6580-86EF-A26A-33A5-80E1919B7F75}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{A34A6580-86EF-A26A-33A5-80E1919B7F75}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197b8.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK EULA" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A50A075D-973C-1867-4228-738205D555C8}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{A50A075D-973C-1867-4228-738205D555C8}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporations]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{A50A075D-973C-1867-4228-738205D555C8}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196d9.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Universal CRT Redistributable" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A57CD0A6-4297-FD30-34A4-34758B6F5F69}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{A57CD0A6-4297-FD30-34A4-34758B6F5F69}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{A57CD0A6-4297-FD30-34A4-34758B6F5F69}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219748.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Universal General MIDI DLS Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A7E95C47-B5F4-110C-D27A-DECB03412B96}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{A7E95C47-B5F4-110C-D27A-DECB03412B96}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{A7E95C47-B5F4-110C-D27A-DECB03412B96}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121973f.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense Desktop - Other Languages" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B42BF427-AFDB-C00F-DB60-6F51395D74A1}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{B42BF427-AFDB-C00F-DB60-6F51395D74A1}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{B42BF427-AFDB-C00F-DB60-6F51395D74A1}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197fa.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Signing Tools" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B62A26BB-90A0-82FB-2DDC-3157ADF07833}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{B62A26BB-90A0-82FB-2DDC-3157ADF07833}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{B62A26BB-90A0-82FB-2DDC-3157ADF07833}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196e9.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense Desktop - en-us" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{BCF7CA0F-E53C-2A4F-B128-A751EC9A1016}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{BCF7CA0F-E53C-2A4F-B128-A751EC9A1016}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{BCF7CA0F-E53C-2A4F-B128-A751EC9A1016}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219770.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Headers x64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{C81D239D-863A-D4B4-3562-BC8D3D7C271E}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{C81D239D-863A-D4B4-3562-BC8D3D7C271E}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{C81D239D-863A-D4B4-3562-BC8D3D7C271E}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219825.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Headers arm64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{C88797F9-0AD8-E022-5BBB-596BC78D4C76}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{C88797F9-0AD8-E022-5BBB-596BC78D4C76}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{C88797F9-0AD8-E022-5BBB-596BC78D4C76}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219858.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows Team Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CE7E4A6A-45A2-2968-4B34-D0D4CFCC0E1D}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{CE7E4A6A-45A2-2968-4B34-D0D4CFCC0E1D}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{CE7E4A6A-45A2-2968-4B34-D0D4CFCC0E1D}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121978f.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Microsoft .NET Framework 4 Multi-Targeting Pack" displayVersion="4.0.30319">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[E:\Microsoft\VisualStudio\Packages\Microsoft.Net.4.TargetingPack,version=4.0.30319.2\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>67139183</Version>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219866.msi]]></LocalPackage>
+    </key>
+    <key installerType="HotfixOrSecurityUpdate" displayName="Update for  (KB2504637)" displayVersion="1">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}.KB2504637</KeyPath>
+      <DefaultValue>KB2504637</DefaultValue>
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[C:\WINDOWS\SysWOW64\msiexec.exe /package {CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE} /uninstall {815F0BC1-7E54-300C-9ACA-C9460FDF6F78} /qb+ REBOOTPROMPT=&amp;quot;&amp;quot;]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate />
+      <InstallSource><![CDATA[]]></InstallSource>
+      <Language />
+      <Version />
+      <VersionMajor />
+      <VersionMinor />
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>false</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>true</NoModify>
+      <NoRepair>true</NoRepair>
+      <ReleaseType>Update</ReleaseType>
+      <ParentKeyName>Microsoft .NET Framework 4 Multi-Targeting Pack</ParentKeyName>
+    </key>
+    <key installerType="Msi" displayName="Windows Desktop Extension SDK" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D3B54AAA-2B64-5DE2-EA64-9900152E5282}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{D3B54AAA-2B64-5DE2-EA64-9900152E5282}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{D3B54AAA-2B64-5DE2-EA64-9900152E5282}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12197bf.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Kits Configuration Installer" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E75A9998-E979-760B-6AEB-49763F279EDD}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{E75A9998-E979-760B-6AEB-49763F279EDD}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{E75A9998-E979-760B-6AEB-49763F279EDD}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\12196d0.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Desktop Tools x64" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F9BDEC71-9E56-CFBF-0AE8-E7AF032D07C7}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{F9BDEC71-9E56-CFBF-0AE8-E7AF032D07C7}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{F9BDEC71-9E56-CFBF-0AE8-E7AF032D07C7}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219834.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK Modern Versioned Developer Tools" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FC5A59F8-6BEE-FBB4-C720-47C565A92798}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{FC5A59F8-6BEE-FBB4-C720-47C565A92798}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{FC5A59F8-6BEE-FBB4-C720-47C565A92798}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\121970d.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="WinRT Intellisense PPI - Other Languages" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FF2B49B7-0254-3D6A-4BE0-EF4C59DBCC2B}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{FF2B49B7-0254-3D6A-4BE0-EF4C59DBCC2B}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{FF2B49B7-0254-3D6A-4BE0-EF4C59DBCC2B}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219806.msi]]></LocalPackage>
+    </key>
+    <key installerType="Msi" displayName="Windows SDK for Windows Store Managed Apps Libs" displayVersion="10.1.19041.685">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FF7D4409-CF59-34AE-BDC7-8A6146A9BA36}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{FF7D4409-CF59-34AE-BDC7-8A6146A9BA36}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Microsoft Corporation]]></Publisher>
+      <InstallDate>20230629</InstallDate>
+      <InstallSource><![CDATA[C:\ProgramData\Package Cache\{FF7D4409-CF59-34AE-BDC7-8A6146A9BA36}v10.1.19041.685\Installers\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>167856737</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <SystemComponent>true</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\1219722.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>

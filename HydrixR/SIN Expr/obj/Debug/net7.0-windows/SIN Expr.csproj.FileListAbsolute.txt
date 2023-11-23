@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\bin\Debug\net7.0-windows\SIN Expr.exe
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\bin\Debug\net7.0-windows\SIN Expr.deps.json
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\bin\Debug\net7.0-windows\SIN Expr.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\bin\Debug\net7.0-windows\SIN Expr.dll
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\bin\Debug\net7.0-windows\SIN Expr.pdb
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN_Expr.Form1.resources
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.dll
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\refint\SIN Expr.dll
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.pdb
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\SIN Expr.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\SIN Expr\obj\Debug\net7.0-windows\ref\SIN Expr.dll

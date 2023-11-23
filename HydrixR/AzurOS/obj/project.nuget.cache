@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaozslW2qJ14LbvA+f/7d9RYw5JPtGZr9Y576Ih2WMoXMPDxBYgpJi13zaMDhf0E9YQhaFxIRU4PJAYUiF3LGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\HydrixR\\AzurOS\\AzurOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20231014020621\\cosmos.build.0.1.0-localbuild20231014020621.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20231014020629\\cosmos.common.0.1.0-localbuild20231014020629.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20231014020629\\cosmos.core.0.1.0-localbuild20231014020629.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20231014020629\\cosmos.debug.kernel.0.1.0-localbuild20231014020629.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20231014020629\\cosmos.hal2.0.1.0-localbuild20231014020629.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20231014020629\\cosmos.system2.0.1.0-localbuild20231014020629.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20231014020629\\il2cpu.api.0.1.0-localbuild20231014020629.nupkg.sha512"
+  ],
+  "logs": []
+}

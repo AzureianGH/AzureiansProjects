@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\HydrixR\Scool\bin\Debug\net7.0\Scool.exe
+C:\Users\alexm\source\repos\HydrixR\Scool\bin\Debug\net7.0\Scool.deps.json
+C:\Users\alexm\source\repos\HydrixR\Scool\bin\Debug\net7.0\Scool.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\Scool\bin\Debug\net7.0\Scool.dll
+C:\Users\alexm\source\repos\HydrixR\Scool\bin\Debug\net7.0\Scool.pdb
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.dll
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\refint\Scool.dll
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.pdb
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\Scool.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\Scool\obj\Debug\net7.0\ref\Scool.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bxZbYzjdzke4ylxzWh3I1Eqxdq0lpLbeCEbsnEfbIzNqX1ZyP0s7yl4sgeU2vwEJZh/HH8kUyh8bpHG67Qqvbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\HydrixPC\\HydrixPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

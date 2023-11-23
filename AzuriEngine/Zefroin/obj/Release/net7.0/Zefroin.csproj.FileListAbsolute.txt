@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\bin\Release\net7.0\Zefroin.deps.json
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\bin\Release\net7.0\Zefroin.dll
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\bin\Release\net7.0\Zefroin.pdb
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.AssemblyInfo.cs
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.dll
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\refint\Zefroin.dll
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.pdb
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\ref\Zefroin.dll
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\bin\Release\net7.0\Zefroin.exe
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\bin\Release\net7.0\Zefroin.runtimeconfig.json
+C:\Users\alexm\source\repos\AzuriEngine\Zefroin\obj\Release\net7.0\Zefroin.genruntimeconfig.cache

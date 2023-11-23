@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\Azuri OS\bin\Debug\net6.0\Azuri OS.deps.json
+C:\Users\alexm\source\repos\Azuri OS\bin\Debug\net6.0\Azuri OS.dll
+C:\Users\alexm\source\repos\Azuri OS\bin\Debug\net6.0\Azuri OS.pdb
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.dll
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\refint\Azuri OS.dll
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\Azuri OS.pdb
+C:\Users\alexm\source\repos\Azuri OS\obj\Debug\net6.0\ref\Azuri OS.dll

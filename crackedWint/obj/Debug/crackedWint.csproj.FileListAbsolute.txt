@@ -1,0 +1,2 @@
+C:\Users\alexm\source\repos\crackedWint\obj\Debug\crackedWint.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\crackedWint\obj\Debug\crackedWint.csproj.CoreCompileInputs.cache

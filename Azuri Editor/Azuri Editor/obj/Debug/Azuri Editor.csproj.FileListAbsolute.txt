@@ -1,0 +1,11 @@
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\bin\Debug\Azuri Editor.exe.config
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\bin\Debug\Azuri Editor.exe
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\bin\Debug\Azuri Editor.pdb
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri_Editor.Properties.Resources.resources
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.exe
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri Editor.pdb
+C:\Users\alexm\source\repos\Azuri Editor\Azuri Editor\obj\Debug\Azuri_Editor.Form1.resources

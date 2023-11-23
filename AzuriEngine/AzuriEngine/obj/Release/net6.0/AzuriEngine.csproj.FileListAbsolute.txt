@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriEngine.exe
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriEngine.deps.json
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriEngine.runtimeconfig.json
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriEngine.dll
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriEngine.pdb
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\bin\Release\Exes\AzuriDataHandler.dll
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.AssemblyInfo.cs
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.csproj.CopyComplete
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.dll
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\refint\AzuriEngine.dll
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.pdb
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\AzuriEngine.genruntimeconfig.cache
+C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\obj\Release\net6.0\ref\AzuriEngine.dll

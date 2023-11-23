@@ -1,0 +1,9 @@
+C:\Users\alexm\source\repos\Projectform\Projectform\bin\Debug\Projectform.exe.config
+C:\Users\alexm\source\repos\Projectform\Projectform\bin\Debug\Projectform.exe
+C:\Users\alexm\source\repos\Projectform\Projectform\bin\Debug\Projectform.pdb
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.Properties.Resources.resources
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.exe
+C:\Users\alexm\source\repos\Projectform\Projectform\obj\Debug\Projectform.pdb

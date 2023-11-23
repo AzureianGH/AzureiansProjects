@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Bramptom\bin\Debug\net7.0\Bramptom.exe
+C:\Users\alexm\source\repos\Bramptom\bin\Debug\net7.0\Bramptom.deps.json
+C:\Users\alexm\source\repos\Bramptom\bin\Debug\net7.0\Bramptom.runtimeconfig.json
+C:\Users\alexm\source\repos\Bramptom\bin\Debug\net7.0\Bramptom.dll
+C:\Users\alexm\source\repos\Bramptom\bin\Debug\net7.0\Bramptom.pdb
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.dll
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\refint\Bramptom.dll
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.pdb
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\Bramptom.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Bramptom\obj\Debug\net7.0\ref\Bramptom.dll

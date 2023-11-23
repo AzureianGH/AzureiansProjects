@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\bin\Debug\net7.0-windows\Hydrix Renderer.exe
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\bin\Debug\net7.0-windows\Hydrix Renderer.deps.json
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\bin\Debug\net7.0-windows\Hydrix Renderer.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\bin\Debug\net7.0-windows\Hydrix Renderer.dll
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\bin\Debug\net7.0-windows\Hydrix Renderer.pdb
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.dll
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\refint\Hydrix Renderer.dll
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.pdb
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\Hydrix Renderer.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\Hydrix Renderer\obj\Debug\net7.0-windows\ref\Hydrix Renderer.dll

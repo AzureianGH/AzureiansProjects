@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\HydrixPC.exe
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\HydrixPC.deps.json
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\HydrixPC.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\HydrixPC.dll
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\HydrixPC.pdb
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.dll
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\refint\HydrixPC.dll
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.pdb
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\ref\HydrixPC.dll
+C:\Users\alexm\source\repos\HydrixPC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\alexm\source\repos\HydrixPC\obj\Debug\net7.0\HydrixPC.csproj.CopyComplete

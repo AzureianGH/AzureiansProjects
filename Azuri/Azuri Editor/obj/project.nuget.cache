@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "WF5dFzBpF/kElPW5WTKcdzI0XMZ4oeyyJlZxT9i18QNBQ+DO/qrkmalBdOoR4AncAYL6FSoUgipDiitJNJclrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\Azuri\\Azuri Editor\\Azuri Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\consolecontrol\\1.3.0\\consolecontrol.1.3.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\consolecontrolapi\\1.3.0\\consolecontrolapi.1.3.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\fastcoloredtextbox.net6\\1.0.0\\fastcoloredtextbox.net6.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConsoleControl 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConsoleControl",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConsoleControlAPI 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConsoleControlAPI",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

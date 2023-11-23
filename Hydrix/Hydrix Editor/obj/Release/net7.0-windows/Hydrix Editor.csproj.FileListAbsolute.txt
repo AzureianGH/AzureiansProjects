@@ -1,0 +1,23 @@
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Hydrix Editor.exe
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Hydrix Editor.deps.json
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Hydrix Editor.runtimeconfig.json
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Hydrix Editor.dll
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Hydrix Editor.pdb
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\bin\Release\net7.0-windows\Siticone.Desktop.UI.dll
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix_Editor.LaunchSettings.resources
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix_Editor.Mainwindow.resources
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix_Editor.NewProj.resources
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix_Editor.Properties.Resources.resources
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.csproj.CopyComplete
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.dll
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\refint\Hydrix Editor.dll
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.pdb
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\Hydrix Editor.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Hydrix\Hydrix Editor\obj\Release\net7.0-windows\ref\Hydrix Editor.dll

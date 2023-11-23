@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExplorerTree/1.0.0": {
+        "runtime": {
+          "lib/net471/ExplorerTree.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HtmlRenderer.Core/1.5.0.6": {
+        "runtime": {
+          "lib/net45/HtmlRenderer.dll": {
+            "assemblyVersion": "1.5.0.6",
+            "fileVersion": "1.5.0.6"
+          }
+        }
+      },
+      "HtmlRenderer.WPF/1.5.0.6": {
+        "dependencies": {
+          "HtmlRenderer.Core": "1.5.0.6"
+        },
+        "runtime": {
+          "lib/net45/HtmlRenderer.WPF.dll": {
+            "assemblyVersion": "1.5.0.6",
+            "fileVersion": "1.5.0.6"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.1901.177": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.1901.177",
+            "fileVersion": "1.0.1901.177"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.1901.177",
+            "fileVersion": "1.0.1901.177"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.1901.177",
+            "fileVersion": "1.0.1901.177"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.1901.177"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.1901.177"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.1901.177"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExplorerTree/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CZ9sCh1T0MlPnT/dYK3SB9V4HASzJBBRU6kyOMamJf8aSVuSOPPbg0ZT74TjHELSPZEJ1upficgMU/TM/S6SHg==",
+      "path": "explorertree/1.0.0",
+      "hashPath": "explorertree.1.0.0.nupkg.sha512"
+    },
+    "HtmlRenderer.Core/1.5.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/WPVhzNmILIOJ1vtoiQXP7y7MJirCpHn/jqFw38wU0vv1XXbSpR2bTStmaiI2Pb2JLjnPMrVGR/7T7zKlAaaHw==",
+      "path": "htmlrenderer.core/1.5.0.6",
+      "hashPath": "htmlrenderer.core.1.5.0.6.nupkg.sha512"
+    },
+    "HtmlRenderer.WPF/1.5.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kGFhqGxwBfH4fttqU87nMN8apMLsXvlCKSy1K5lNPCeO4px2OW3/2F7y+g7jlRiQJMzemySLC2+LSXBvWZh9w==",
+      "path": "htmlrenderer.wpf/1.5.0.6",
+      "hashPath": "htmlrenderer.wpf.1.5.0.6.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.1901.177": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uvVpS0zoIBlmGzNBqtDNhJLvc4z5raFLFmXsLaAVKkxpRMiehOxUtjwvsZX/1Pv6M/N6xkIt/PnM0NdTHlOQoQ==",
+      "path": "microsoft.web.webview2/1.0.1901.177",
+      "hashPath": "microsoft.web.webview2.1.0.1901.177.nupkg.sha512"
+    }
+  }
+}

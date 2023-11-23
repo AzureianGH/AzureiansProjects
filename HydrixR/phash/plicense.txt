@@ -1,0 +1,21 @@
+phash License
+
+This software, "phash," is provided under the following terms and conditions:
+
+1. You are granted a non-exclusive, non-transferable, worldwide license to use "phash" in both paid and free projects, provided that proper credit is given to Nathan Hornby as the original author of "phash."
+
+2. You may not modify, decompile, reverse engineer, disassemble, or attempt to discover the source code of "phash."
+
+3. You may not distribute, sublicense, or otherwise make available the source code of "phash" to any third party.
+
+4. You may not redistribute "phash" as a standalone software package. It should only be used as part of your projects.
+
+5. This license is perpetual and will continue to be in effect even if you cease using "phash."
+
+6. Nathan Hornby and any contributors to "phash" shall not be liable for any damages or liability arising from the use, misuse, or inability to use "phash."
+
+By using "phash," you agree to abide by these terms and conditions. If you do not agree with these terms, you are not permitted to use "phash."
+
+For inquiries or custom licensing options, please contact Nathan Hornby at alexmybestcat@gmail.com.
+
+Date: 10/4/23 | 3:53 PM

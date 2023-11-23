@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKZeh8z/DHyb6wQLQV5SUHdHG5+xPH9nrO+H3JATTKT78K918JpwRFBYZJKYza+A0RG00LU0JA6QNT10/8sifg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\Azuri\\Azuri Html Editor\\Azuri Html Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\htmlrenderer.core\\1.5.0.6\\htmlrenderer.core.1.5.0.6.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\htmlrenderer.winforms\\1.5.0.6\\htmlrenderer.winforms.1.5.0.6.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.7\\microsoft.netcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.7\\microsoft.netcore.app.crossgen2.win-x64.7.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.Core 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.Core",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlRenderer.WinForms 1.5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlRenderer.WinForms",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Building 'Azuri Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Azuri Driver.vcxproj -> C:\Users\alexm\source\repos\AT\Azuri Driver\x64\Debug\AzuriDriver.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  

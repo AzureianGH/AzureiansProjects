@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Azuri Package Manager APM.exe
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Azuri Package Manager APM.deps.json
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Azuri Package Manager APM.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Azuri Package Manager APM.dll
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Azuri Package Manager APM.pdb
+C:\Users\alexm\source\repos\Azuri Package Manager APM\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.csproj.CopyComplete
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.dll
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\refint\Azuri Package Manager APM.dll
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.pdb
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\Azuri Package Manager APM.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri Package Manager APM\obj\Debug\net7.0\ref\Azuri Package Manager APM.dll

@@ -1,0 +1,1430 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Cosmos.Build/0.1.0-localbuild20221121055958": {
+        "type": "package",
+        "build": {
+          "build/Cosmos.Build.props": {},
+          "build/Cosmos.Build.targets": {}
+        }
+      },
+      "Cosmos.Common/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004"
+        },
+        "compile": {
+          "lib/net6.0/Cosmos.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Common.dll": {}
+        }
+      },
+      "Cosmos.Core/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "compile": {
+          "lib/net6.0/Cosmos.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Cosmos.Debug.Kernel/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Cosmos.Debug.Kernel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cosmos.Debug.Kernel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Cosmos.HAL2/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild20221121060004",
+          "Cosmos.Core": "0.1.0-localbuild20221121060004",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "compile": {
+          "lib/net6.0/Cosmos.HAL2.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.HAL2.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Cosmos.System2/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild20221121060004",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "Cosmos.HAL2": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "compile": {
+          "lib/net6.0/Cosmos.System2.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.System2.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "IL2CPU.API/0.1.0-localbuild20221121060004": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/IL2CPU.API.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IL2CPU.API.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.NETCore.Targets/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "pythonnet/3.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Python.Runtime.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Python.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.IO/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.5/System.IO.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Reflection/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.5/System.Reflection.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Emit.ILGeneration": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.1/System.Reflection.Emit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Reflection.Emit.dll": {}
+        }
+      },
+      "System.Reflection.Emit.ILGeneration/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
+        }
+      },
+      "System.Reflection.Primitives/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.0/System.Reflection.Primitives.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        },
+        "compile": {
+          "ref/netstandard1.5/System.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Text.Encoding/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.Text.Encoding.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.Threading.Tasks.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cosmos.Build/0.1.0-localbuild20221121055958": {
+      "sha512": "mj39J7rWhTZPJdSrdKVBQt7HN/JeJwK/rslL3s91Y6skr1RvNcLzyiM074ZJdN4Wjz0N4GAZJOeZnX3NWNQRmg==",
+      "type": "package",
+      "path": "cosmos.build/0.1.0-localbuild20221121055958",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "build/Cosmos.Build.props",
+        "build/Cosmos.Build.targets",
+        "cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+        "cosmos.build.nuspec",
+        "runtime.json",
+        "tools/cygwin/win/GPL Readme.txt",
+        "tools/cygwin/win/cygiconv-2.dll",
+        "tools/cygwin/win/cygintl-3.dll",
+        "tools/cygwin/win/cygwin1.dll",
+        "tools/cygwin/win/ld.exe",
+        "tools/cygwin/win/objdump.bat",
+        "tools/cygwin/win/objdump.exe",
+        "tools/cygwin/win/objdump.sh",
+        "tools/grub2/boot/grub/i386-pc/915resolution.mod",
+        "tools/grub2/boot/grub/i386-pc/acpi.mod",
+        "tools/grub2/boot/grub/i386-pc/adler32.mod",
+        "tools/grub2/boot/grub/i386-pc/affs.mod",
+        "tools/grub2/boot/grub/i386-pc/afs.mod",
+        "tools/grub2/boot/grub/i386-pc/ahci.mod",
+        "tools/grub2/boot/grub/i386-pc/all_video.mod",
+        "tools/grub2/boot/grub/i386-pc/aout.mod",
+        "tools/grub2/boot/grub/i386-pc/archelp.mod",
+        "tools/grub2/boot/grub/i386-pc/at_keyboard.mod",
+        "tools/grub2/boot/grub/i386-pc/ata.mod",
+        "tools/grub2/boot/grub/i386-pc/backtrace.mod",
+        "tools/grub2/boot/grub/i386-pc/bfs.mod",
+        "tools/grub2/boot/grub/i386-pc/biosdisk.mod",
+        "tools/grub2/boot/grub/i386-pc/bitmap.mod",
+        "tools/grub2/boot/grub/i386-pc/bitmap_scale.mod",
+        "tools/grub2/boot/grub/i386-pc/blocklist.mod",
+        "tools/grub2/boot/grub/i386-pc/boot.mod",
+        "tools/grub2/boot/grub/i386-pc/bsd.mod",
+        "tools/grub2/boot/grub/i386-pc/btrfs.mod",
+        "tools/grub2/boot/grub/i386-pc/bufio.mod",
+        "tools/grub2/boot/grub/i386-pc/cat.mod",
+        "tools/grub2/boot/grub/i386-pc/cbfs.mod",
+        "tools/grub2/boot/grub/i386-pc/cbls.mod",
+        "tools/grub2/boot/grub/i386-pc/cbmemc.mod",
+        "tools/grub2/boot/grub/i386-pc/cbtable.mod",
+        "tools/grub2/boot/grub/i386-pc/cbtime.mod",
+        "tools/grub2/boot/grub/i386-pc/chain.mod",
+        "tools/grub2/boot/grub/i386-pc/cmdline_cat_test.mod",
+        "tools/grub2/boot/grub/i386-pc/cmosdump.mod",
+        "tools/grub2/boot/grub/i386-pc/cmostest.mod",
+        "tools/grub2/boot/grub/i386-pc/cmp.mod",
+        "tools/grub2/boot/grub/i386-pc/command.lst",
+        "tools/grub2/boot/grub/i386-pc/configfile.mod",
+        "tools/grub2/boot/grub/i386-pc/cpio.mod",
+        "tools/grub2/boot/grub/i386-pc/cpio_be.mod",
+        "tools/grub2/boot/grub/i386-pc/cpuid.mod",
+        "tools/grub2/boot/grub/i386-pc/crc64.mod",
+        "tools/grub2/boot/grub/i386-pc/crypto.lst",
+        "tools/grub2/boot/grub/i386-pc/crypto.mod",
+        "tools/grub2/boot/grub/i386-pc/cryptodisk.mod",
+        "tools/grub2/boot/grub/i386-pc/cs5536.mod",
+        "tools/grub2/boot/grub/i386-pc/date.mod",
+        "tools/grub2/boot/grub/i386-pc/datehook.mod",
+        "tools/grub2/boot/grub/i386-pc/datetime.mod",
+        "tools/grub2/boot/grub/i386-pc/disk.mod",
+        "tools/grub2/boot/grub/i386-pc/diskfilter.mod",
+        "tools/grub2/boot/grub/i386-pc/div_test.mod",
+        "tools/grub2/boot/grub/i386-pc/dm_nv.mod",
+        "tools/grub2/boot/grub/i386-pc/drivemap.mod",
+        "tools/grub2/boot/grub/i386-pc/echo.mod",
+        "tools/grub2/boot/grub/i386-pc/efiemu.mod",
+        "tools/grub2/boot/grub/i386-pc/efiemu32.o",
+        "tools/grub2/boot/grub/i386-pc/efiemu64.o",
+        "tools/grub2/boot/grub/i386-pc/ehci.mod",
+        "tools/grub2/boot/grub/i386-pc/elf.mod",
+        "tools/grub2/boot/grub/i386-pc/eltorito.img",
+        "tools/grub2/boot/grub/i386-pc/eval.mod",
+        "tools/grub2/boot/grub/i386-pc/exfat.mod",
+        "tools/grub2/boot/grub/i386-pc/exfctest.mod",
+        "tools/grub2/boot/grub/i386-pc/ext2.mod",
+        "tools/grub2/boot/grub/i386-pc/extcmd.mod",
+        "tools/grub2/boot/grub/i386-pc/fat.mod",
+        "tools/grub2/boot/grub/i386-pc/file.mod",
+        "tools/grub2/boot/grub/i386-pc/font.mod",
+        "tools/grub2/boot/grub/i386-pc/freedos.mod",
+        "tools/grub2/boot/grub/i386-pc/fs.lst",
+        "tools/grub2/boot/grub/i386-pc/fshelp.mod",
+        "tools/grub2/boot/grub/i386-pc/functional_test.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_arcfour.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_blowfish.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_camellia.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_cast5.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_crc.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_des.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_dsa.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_idea.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_md4.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_md5.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_rfc2268.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_rijndael.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_rmd160.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_rsa.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_seed.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_serpent.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_sha1.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_sha256.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_sha512.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_tiger.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_twofish.mod",
+        "tools/grub2/boot/grub/i386-pc/gcry_whirlpool.mod",
+        "tools/grub2/boot/grub/i386-pc/gdb.mod",
+        "tools/grub2/boot/grub/i386-pc/geli.mod",
+        "tools/grub2/boot/grub/i386-pc/gettext.mod",
+        "tools/grub2/boot/grub/i386-pc/gfxmenu.mod",
+        "tools/grub2/boot/grub/i386-pc/gfxterm.mod",
+        "tools/grub2/boot/grub/i386-pc/gfxterm_background.mod",
+        "tools/grub2/boot/grub/i386-pc/gfxterm_menu.mod",
+        "tools/grub2/boot/grub/i386-pc/gptsync.mod",
+        "tools/grub2/boot/grub/i386-pc/gzio.mod",
+        "tools/grub2/boot/grub/i386-pc/halt.mod",
+        "tools/grub2/boot/grub/i386-pc/hashsum.mod",
+        "tools/grub2/boot/grub/i386-pc/hdparm.mod",
+        "tools/grub2/boot/grub/i386-pc/hello.mod",
+        "tools/grub2/boot/grub/i386-pc/help.mod",
+        "tools/grub2/boot/grub/i386-pc/hexdump.mod",
+        "tools/grub2/boot/grub/i386-pc/hfs.mod",
+        "tools/grub2/boot/grub/i386-pc/hfsplus.mod",
+        "tools/grub2/boot/grub/i386-pc/hfspluscomp.mod",
+        "tools/grub2/boot/grub/i386-pc/http.mod",
+        "tools/grub2/boot/grub/i386-pc/hwmatch.mod",
+        "tools/grub2/boot/grub/i386-pc/iorw.mod",
+        "tools/grub2/boot/grub/i386-pc/iso9660.mod",
+        "tools/grub2/boot/grub/i386-pc/jfs.mod",
+        "tools/grub2/boot/grub/i386-pc/jpeg.mod",
+        "tools/grub2/boot/grub/i386-pc/keylayouts.mod",
+        "tools/grub2/boot/grub/i386-pc/keystatus.mod",
+        "tools/grub2/boot/grub/i386-pc/ldm.mod",
+        "tools/grub2/boot/grub/i386-pc/legacy_password_test.mod",
+        "tools/grub2/boot/grub/i386-pc/legacycfg.mod",
+        "tools/grub2/boot/grub/i386-pc/linux.mod",
+        "tools/grub2/boot/grub/i386-pc/linux16.mod",
+        "tools/grub2/boot/grub/i386-pc/loadenv.mod",
+        "tools/grub2/boot/grub/i386-pc/loopback.mod",
+        "tools/grub2/boot/grub/i386-pc/ls.mod",
+        "tools/grub2/boot/grub/i386-pc/lsacpi.mod",
+        "tools/grub2/boot/grub/i386-pc/lsapm.mod",
+        "tools/grub2/boot/grub/i386-pc/lsmmap.mod",
+        "tools/grub2/boot/grub/i386-pc/lspci.mod",
+        "tools/grub2/boot/grub/i386-pc/luks.mod",
+        "tools/grub2/boot/grub/i386-pc/lvm.mod",
+        "tools/grub2/boot/grub/i386-pc/lzopio.mod",
+        "tools/grub2/boot/grub/i386-pc/macbless.mod",
+        "tools/grub2/boot/grub/i386-pc/macho.mod",
+        "tools/grub2/boot/grub/i386-pc/mda_text.mod",
+        "tools/grub2/boot/grub/i386-pc/mdraid09.mod",
+        "tools/grub2/boot/grub/i386-pc/mdraid09_be.mod",
+        "tools/grub2/boot/grub/i386-pc/mdraid1x.mod",
+        "tools/grub2/boot/grub/i386-pc/memdisk.mod",
+        "tools/grub2/boot/grub/i386-pc/memrw.mod",
+        "tools/grub2/boot/grub/i386-pc/minicmd.mod",
+        "tools/grub2/boot/grub/i386-pc/minix.mod",
+        "tools/grub2/boot/grub/i386-pc/minix2.mod",
+        "tools/grub2/boot/grub/i386-pc/minix2_be.mod",
+        "tools/grub2/boot/grub/i386-pc/minix3.mod",
+        "tools/grub2/boot/grub/i386-pc/minix3_be.mod",
+        "tools/grub2/boot/grub/i386-pc/minix_be.mod",
+        "tools/grub2/boot/grub/i386-pc/mmap.mod",
+        "tools/grub2/boot/grub/i386-pc/moddep.lst",
+        "tools/grub2/boot/grub/i386-pc/modinfo.sh",
+        "tools/grub2/boot/grub/i386-pc/morse.mod",
+        "tools/grub2/boot/grub/i386-pc/mpi.mod",
+        "tools/grub2/boot/grub/i386-pc/msdospart.mod",
+        "tools/grub2/boot/grub/i386-pc/multiboot.mod",
+        "tools/grub2/boot/grub/i386-pc/multiboot2.mod",
+        "tools/grub2/boot/grub/i386-pc/nativedisk.mod",
+        "tools/grub2/boot/grub/i386-pc/net.mod",
+        "tools/grub2/boot/grub/i386-pc/newc.mod",
+        "tools/grub2/boot/grub/i386-pc/nilfs2.mod",
+        "tools/grub2/boot/grub/i386-pc/normal.mod",
+        "tools/grub2/boot/grub/i386-pc/ntfs.mod",
+        "tools/grub2/boot/grub/i386-pc/ntfscomp.mod",
+        "tools/grub2/boot/grub/i386-pc/ntldr.mod",
+        "tools/grub2/boot/grub/i386-pc/odc.mod",
+        "tools/grub2/boot/grub/i386-pc/offsetio.mod",
+        "tools/grub2/boot/grub/i386-pc/ohci.mod",
+        "tools/grub2/boot/grub/i386-pc/part_acorn.mod",
+        "tools/grub2/boot/grub/i386-pc/part_amiga.mod",
+        "tools/grub2/boot/grub/i386-pc/part_apple.mod",
+        "tools/grub2/boot/grub/i386-pc/part_bsd.mod",
+        "tools/grub2/boot/grub/i386-pc/part_dfly.mod",
+        "tools/grub2/boot/grub/i386-pc/part_dvh.mod",
+        "tools/grub2/boot/grub/i386-pc/part_gpt.mod",
+        "tools/grub2/boot/grub/i386-pc/part_msdos.mod",
+        "tools/grub2/boot/grub/i386-pc/part_plan.mod",
+        "tools/grub2/boot/grub/i386-pc/part_sun.mod",
+        "tools/grub2/boot/grub/i386-pc/part_sunpc.mod",
+        "tools/grub2/boot/grub/i386-pc/partmap.lst",
+        "tools/grub2/boot/grub/i386-pc/parttool.lst",
+        "tools/grub2/boot/grub/i386-pc/parttool.mod",
+        "tools/grub2/boot/grub/i386-pc/password.mod",
+        "tools/grub2/boot/grub/i386-pc/password_pbkdf2.mod",
+        "tools/grub2/boot/grub/i386-pc/pata.mod",
+        "tools/grub2/boot/grub/i386-pc/pbkdf2.mod",
+        "tools/grub2/boot/grub/i386-pc/pbkdf2_test.mod",
+        "tools/grub2/boot/grub/i386-pc/pci.mod",
+        "tools/grub2/boot/grub/i386-pc/pcidump.mod",
+        "tools/grub2/boot/grub/i386-pc/plan9.mod",
+        "tools/grub2/boot/grub/i386-pc/play.mod",
+        "tools/grub2/boot/grub/i386-pc/png.mod",
+        "tools/grub2/boot/grub/i386-pc/priority_queue.mod",
+        "tools/grub2/boot/grub/i386-pc/probe.mod",
+        "tools/grub2/boot/grub/i386-pc/procfs.mod",
+        "tools/grub2/boot/grub/i386-pc/progress.mod",
+        "tools/grub2/boot/grub/i386-pc/pxe.mod",
+        "tools/grub2/boot/grub/i386-pc/pxechain.mod",
+        "tools/grub2/boot/grub/i386-pc/raid5rec.mod",
+        "tools/grub2/boot/grub/i386-pc/raid6rec.mod",
+        "tools/grub2/boot/grub/i386-pc/read.mod",
+        "tools/grub2/boot/grub/i386-pc/reboot.mod",
+        "tools/grub2/boot/grub/i386-pc/regexp.mod",
+        "tools/grub2/boot/grub/i386-pc/reiserfs.mod",
+        "tools/grub2/boot/grub/i386-pc/relocator.mod",
+        "tools/grub2/boot/grub/i386-pc/romfs.mod",
+        "tools/grub2/boot/grub/i386-pc/scsi.mod",
+        "tools/grub2/boot/grub/i386-pc/search.mod",
+        "tools/grub2/boot/grub/i386-pc/search_fs_file.mod",
+        "tools/grub2/boot/grub/i386-pc/search_fs_uuid.mod",
+        "tools/grub2/boot/grub/i386-pc/search_label.mod",
+        "tools/grub2/boot/grub/i386-pc/sendkey.mod",
+        "tools/grub2/boot/grub/i386-pc/serial.mod",
+        "tools/grub2/boot/grub/i386-pc/setjmp.mod",
+        "tools/grub2/boot/grub/i386-pc/setjmp_test.mod",
+        "tools/grub2/boot/grub/i386-pc/setpci.mod",
+        "tools/grub2/boot/grub/i386-pc/sfs.mod",
+        "tools/grub2/boot/grub/i386-pc/signature_test.mod",
+        "tools/grub2/boot/grub/i386-pc/sleep.mod",
+        "tools/grub2/boot/grub/i386-pc/sleep_test.mod",
+        "tools/grub2/boot/grub/i386-pc/spkmodem.mod",
+        "tools/grub2/boot/grub/i386-pc/squash4.mod",
+        "tools/grub2/boot/grub/i386-pc/syslinuxcfg.mod",
+        "tools/grub2/boot/grub/i386-pc/tar.mod",
+        "tools/grub2/boot/grub/i386-pc/terminal.lst",
+        "tools/grub2/boot/grub/i386-pc/terminal.mod",
+        "tools/grub2/boot/grub/i386-pc/terminfo.mod",
+        "tools/grub2/boot/grub/i386-pc/test.mod",
+        "tools/grub2/boot/grub/i386-pc/test_blockarg.mod",
+        "tools/grub2/boot/grub/i386-pc/testload.mod",
+        "tools/grub2/boot/grub/i386-pc/testspeed.mod",
+        "tools/grub2/boot/grub/i386-pc/tftp.mod",
+        "tools/grub2/boot/grub/i386-pc/tga.mod",
+        "tools/grub2/boot/grub/i386-pc/time.mod",
+        "tools/grub2/boot/grub/i386-pc/tr.mod",
+        "tools/grub2/boot/grub/i386-pc/trig.mod",
+        "tools/grub2/boot/grub/i386-pc/true.mod",
+        "tools/grub2/boot/grub/i386-pc/truecrypt.mod",
+        "tools/grub2/boot/grub/i386-pc/udf.mod",
+        "tools/grub2/boot/grub/i386-pc/ufs1.mod",
+        "tools/grub2/boot/grub/i386-pc/ufs1_be.mod",
+        "tools/grub2/boot/grub/i386-pc/ufs2.mod",
+        "tools/grub2/boot/grub/i386-pc/uhci.mod",
+        "tools/grub2/boot/grub/i386-pc/usb.mod",
+        "tools/grub2/boot/grub/i386-pc/usb_keyboard.mod",
+        "tools/grub2/boot/grub/i386-pc/usbms.mod",
+        "tools/grub2/boot/grub/i386-pc/usbserial_common.mod",
+        "tools/grub2/boot/grub/i386-pc/usbserial_ftdi.mod",
+        "tools/grub2/boot/grub/i386-pc/usbserial_pl2303.mod",
+        "tools/grub2/boot/grub/i386-pc/usbserial_usbdebug.mod",
+        "tools/grub2/boot/grub/i386-pc/usbtest.mod",
+        "tools/grub2/boot/grub/i386-pc/vbe.mod",
+        "tools/grub2/boot/grub/i386-pc/verify.mod",
+        "tools/grub2/boot/grub/i386-pc/vga.mod",
+        "tools/grub2/boot/grub/i386-pc/vga_text.mod",
+        "tools/grub2/boot/grub/i386-pc/video.lst",
+        "tools/grub2/boot/grub/i386-pc/video.mod",
+        "tools/grub2/boot/grub/i386-pc/video_bochs.mod",
+        "tools/grub2/boot/grub/i386-pc/video_cirrus.mod",
+        "tools/grub2/boot/grub/i386-pc/video_colors.mod",
+        "tools/grub2/boot/grub/i386-pc/video_fb.mod",
+        "tools/grub2/boot/grub/i386-pc/videoinfo.mod",
+        "tools/grub2/boot/grub/i386-pc/videotest.mod",
+        "tools/grub2/boot/grub/i386-pc/videotest_checksum.mod",
+        "tools/grub2/boot/grub/i386-pc/xfs.mod",
+        "tools/grub2/boot/grub/i386-pc/xnu.mod",
+        "tools/grub2/boot/grub/i386-pc/xnu_uuid.mod",
+        "tools/grub2/boot/grub/i386-pc/xnu_uuid_test.mod",
+        "tools/grub2/boot/grub/i386-pc/xzio.mod",
+        "tools/grub2/boot/grub/i386-pc/zfs.mod",
+        "tools/grub2/boot/grub/i386-pc/zfscrypt.mod",
+        "tools/grub2/boot/grub/i386-pc/zfsinfo.mod",
+        "tools/mkisofs/win/mkisofs.exe",
+        "tools/net48/Cosmos.Build.Common.dll",
+        "tools/net48/Cosmos.Build.Common.pdb",
+        "tools/net48/Cosmos.Build.Tasks.dll",
+        "tools/net48/Cosmos.Build.Tasks.pdb",
+        "tools/net48/Cosmos.Debug.Common.dll",
+        "tools/net48/Cosmos.Debug.Common.pdb",
+        "tools/net48/Cosmos.Debug.Hosts.dll",
+        "tools/net48/Cosmos.Debug.Hosts.pdb",
+        "tools/net48/Dapper.StrongName.dll",
+        "tools/net48/DapperExtensions.StrongName.dll",
+        "tools/net48/DapperExtensions.StrongName.pdb",
+        "tools/net48/HyperVServer/Cosmos.Debug.HyperVServer.deps.json",
+        "tools/net48/HyperVServer/Cosmos.Debug.HyperVServer.dll",
+        "tools/net48/HyperVServer/Cosmos.Debug.HyperVServer.exe",
+        "tools/net48/HyperVServer/Cosmos.Debug.HyperVServer.pdb",
+        "tools/net48/HyperVServer/Cosmos.Debug.HyperVServer.runtimeconfig.json",
+        "tools/net48/HyperVServer/System.Management.Automation.dll",
+        "tools/net48/HyperVServer/scripts/CreateVm.ps1",
+        "tools/net48/HyperVServer/scripts/RemoveVM.ps1",
+        "tools/net48/HyperVServer/scripts/StartVm.ps1",
+        "tools/net48/HyperVServer/scripts/StopVm.ps1",
+        "tools/net48/IL2CPU.Debug.Symbols.Net48.dll",
+        "tools/net48/IL2CPU.Debug.Symbols.Net48.pdb",
+        "tools/net48/Microsoft.Data.Sqlite.dll",
+        "tools/net48/Microsoft.DiaSymReader.dll",
+        "tools/net48/Microsoft.Win32.Registry.dll",
+        "tools/net48/SQLitePCLRaw.batteries_v2.dll",
+        "tools/net48/SQLitePCLRaw.core.dll",
+        "tools/net48/SQLitePCLRaw.provider.e_sqlite3.dll",
+        "tools/net48/System.Buffers.dll",
+        "tools/net48/System.Collections.Immutable.dll",
+        "tools/net48/System.ComponentModel.Annotations.dll",
+        "tools/net48/System.Data.SqlClient.dll",
+        "tools/net48/System.IO.Ports.dll",
+        "tools/net48/System.Memory.dll",
+        "tools/net48/System.Numerics.Vectors.dll",
+        "tools/net48/System.Reflection.Metadata.dll",
+        "tools/net48/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net48/System.Security.AccessControl.dll",
+        "tools/net48/System.Security.Principal.Windows.dll",
+        "tools/net48/e_sqlite3.dll",
+        "tools/net48/runtimes/win-arm/native/e_sqlite3.dll",
+        "tools/net48/runtimes/win-x64/native/e_sqlite3.dll",
+        "tools/net48/runtimes/win-x86/native/e_sqlite3.dll",
+        "tools/syslinux/bios/com32/elflink/ldlinux/ldlinux.c32",
+        "tools/syslinux/bios/com32/lib/libcom32.c32",
+        "tools/syslinux/bios/com32/mboot/mboot.c32",
+        "tools/syslinux/bios/core/isolinux.bin",
+        "tools/syslinux/bios/core/pxelinux.0",
+        "tools/syslinux/bios/core/pxelinux.bin",
+        "tools/syslinux/win/syslinux.exe",
+        "tools/unix/objdump.sh",
+        "tools/yasm/win/LICENSE.txt",
+        "tools/yasm/win/yasm.exe"
+      ]
+    },
+    "Cosmos.Common/0.1.0-localbuild20221121060004": {
+      "sha512": "YIPuNNaehxq2Hgzo8q24Rs36F9PVtU9mOQ/qb5OU5eGr/d2bbgSQGZFkBh7HOMRqhtWQvaUlEKjJbInOpZkx7A==",
+      "type": "package",
+      "path": "cosmos.common/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "cosmos.common.nuspec",
+        "lib/net6.0/Cosmos.Common.dll"
+      ]
+    },
+    "Cosmos.Core/0.1.0-localbuild20221121060004": {
+      "sha512": "xjn58k6ZzuoV+0pMRd1M8Q0nVOBL/bJ6hp/j5w6Sk5Cx0ZiJYRfaTbc0dqQZoSzX9EUj6+5JDHZmZyuKOWGgZg==",
+      "type": "package",
+      "path": "cosmos.core/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "cosmos.core.nuspec",
+        "lib/net6.0/Cosmos.Core.dll",
+        "lib/net6.0/Cosmos.Core.xml"
+      ]
+    },
+    "Cosmos.Debug.Kernel/0.1.0-localbuild20221121060004": {
+      "sha512": "Dgbi2cQgplUwtGkRVTrqxWyFVz/lQHW5QIRUpOCLuOAuwLiMZGU1+ULwMJmmspHuq+8pcmMS9KAbopcNs8Fueg==",
+      "type": "package",
+      "path": "cosmos.debug.kernel/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "cosmos.debug.kernel.nuspec",
+        "lib/netstandard2.0/Cosmos.Debug.Kernel.dll",
+        "lib/netstandard2.0/Cosmos.Debug.Kernel.xml"
+      ]
+    },
+    "Cosmos.HAL2/0.1.0-localbuild20221121060004": {
+      "sha512": "4xD9K+lUKQUD+XpFb3LcPHLt8Si8bWK4+bRdpdKOKRwYNWyfdVExKTfxt9WIhh4R/aETyQ31VuyudVAh4wjE8A==",
+      "type": "package",
+      "path": "cosmos.hal2/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "cosmos.hal2.nuspec",
+        "lib/net6.0/Cosmos.HAL2.dll",
+        "lib/net6.0/Cosmos.HAL2.xml"
+      ]
+    },
+    "Cosmos.System2/0.1.0-localbuild20221121060004": {
+      "sha512": "Xolcbn5UxV/mkfFgpt96zyJ/QW7F6HsEdgMEfF9VSxakZSMsS+9LHS0tObkXNVbrvB2mOL8QCblgLTHkRXghUQ==",
+      "type": "package",
+      "path": "cosmos.system2/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "cosmos.system2.nuspec",
+        "lib/net6.0/Cosmos.System2.dll",
+        "lib/net6.0/Cosmos.System2.xml"
+      ]
+    },
+    "IL2CPU.API/0.1.0-localbuild20221121060004": {
+      "sha512": "5qwu24gFRI8hMkZStF77KlOmpdzHGFESVkR/WVxrAmtPKfBsSHXOQhpv0K6kZlTnJ6CNyz2ZGyAea+t0N6RbKg==",
+      "type": "package",
+      "path": "il2cpu.api/0.1.0-localbuild20221121060004",
+      "files": [
+        ".nupkg.metadata",
+        "il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512",
+        "il2cpu.api.nuspec",
+        "lib/netstandard2.0/IL2CPU.API.dll"
+      ]
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "type": "package",
+      "path": "microsoft.csharp/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/Microsoft.CSharp.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.3/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/uap10.0.16299/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
+        "microsoft.csharp.nuspec",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/Microsoft.CSharp.dll",
+        "ref/netcore50/Microsoft.CSharp.xml",
+        "ref/netcore50/de/Microsoft.CSharp.xml",
+        "ref/netcore50/es/Microsoft.CSharp.xml",
+        "ref/netcore50/fr/Microsoft.CSharp.xml",
+        "ref/netcore50/it/Microsoft.CSharp.xml",
+        "ref/netcore50/ja/Microsoft.CSharp.xml",
+        "ref/netcore50/ko/Microsoft.CSharp.xml",
+        "ref/netcore50/ru/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hans/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hant/Microsoft.CSharp.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/Microsoft.CSharp.dll",
+        "ref/netstandard1.0/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/de/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/es/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/fr/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/it/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ja/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ko/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ru/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hans/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hant/Microsoft.CSharp.xml",
+        "ref/netstandard2.0/Microsoft.CSharp.dll",
+        "ref/netstandard2.0/Microsoft.CSharp.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/uap10.0.16299/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "type": "package",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
+        "runtime.json"
+      ]
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "type": "package",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.targets.1.1.0.nupkg.sha512",
+        "microsoft.netcore.targets.nuspec",
+        "runtime.json"
+      ]
+    },
+    "pythonnet/3.0.1": {
+      "sha512": "FYgnTnIUDE/9CC1m/046UvevJW9RYLtvyc98pycc+76lFG+MdTlwkKoG63RkvPKgbqlJJSMqu8zxeiqHS8vR9Q==",
+      "type": "package",
+      "path": "pythonnet/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "lib/netstandard2.0/Python.Runtime.dll",
+        "lib/netstandard2.0/Python.Runtime.xml",
+        "python-clear.png",
+        "pythonnet.3.0.1.nupkg.sha512",
+        "pythonnet.nuspec"
+      ]
+    },
+    "System.IO/4.3.0": {
+      "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+      "type": "package",
+      "path": "system.io/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net462/System.IO.dll",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net462/System.IO.dll",
+        "ref/netcore50/System.IO.dll",
+        "ref/netcore50/System.IO.xml",
+        "ref/netcore50/de/System.IO.xml",
+        "ref/netcore50/es/System.IO.xml",
+        "ref/netcore50/fr/System.IO.xml",
+        "ref/netcore50/it/System.IO.xml",
+        "ref/netcore50/ja/System.IO.xml",
+        "ref/netcore50/ko/System.IO.xml",
+        "ref/netcore50/ru/System.IO.xml",
+        "ref/netcore50/zh-hans/System.IO.xml",
+        "ref/netcore50/zh-hant/System.IO.xml",
+        "ref/netstandard1.0/System.IO.dll",
+        "ref/netstandard1.0/System.IO.xml",
+        "ref/netstandard1.0/de/System.IO.xml",
+        "ref/netstandard1.0/es/System.IO.xml",
+        "ref/netstandard1.0/fr/System.IO.xml",
+        "ref/netstandard1.0/it/System.IO.xml",
+        "ref/netstandard1.0/ja/System.IO.xml",
+        "ref/netstandard1.0/ko/System.IO.xml",
+        "ref/netstandard1.0/ru/System.IO.xml",
+        "ref/netstandard1.0/zh-hans/System.IO.xml",
+        "ref/netstandard1.0/zh-hant/System.IO.xml",
+        "ref/netstandard1.3/System.IO.dll",
+        "ref/netstandard1.3/System.IO.xml",
+        "ref/netstandard1.3/de/System.IO.xml",
+        "ref/netstandard1.3/es/System.IO.xml",
+        "ref/netstandard1.3/fr/System.IO.xml",
+        "ref/netstandard1.3/it/System.IO.xml",
+        "ref/netstandard1.3/ja/System.IO.xml",
+        "ref/netstandard1.3/ko/System.IO.xml",
+        "ref/netstandard1.3/ru/System.IO.xml",
+        "ref/netstandard1.3/zh-hans/System.IO.xml",
+        "ref/netstandard1.3/zh-hant/System.IO.xml",
+        "ref/netstandard1.5/System.IO.dll",
+        "ref/netstandard1.5/System.IO.xml",
+        "ref/netstandard1.5/de/System.IO.xml",
+        "ref/netstandard1.5/es/System.IO.xml",
+        "ref/netstandard1.5/fr/System.IO.xml",
+        "ref/netstandard1.5/it/System.IO.xml",
+        "ref/netstandard1.5/ja/System.IO.xml",
+        "ref/netstandard1.5/ko/System.IO.xml",
+        "ref/netstandard1.5/ru/System.IO.xml",
+        "ref/netstandard1.5/zh-hans/System.IO.xml",
+        "ref/netstandard1.5/zh-hant/System.IO.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.io.4.3.0.nupkg.sha512",
+        "system.io.nuspec"
+      ]
+    },
+    "System.Reflection/4.3.0": {
+      "sha512": "KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+      "type": "package",
+      "path": "system.reflection/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net462/System.Reflection.dll",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net462/System.Reflection.dll",
+        "ref/netcore50/System.Reflection.dll",
+        "ref/netcore50/System.Reflection.xml",
+        "ref/netcore50/de/System.Reflection.xml",
+        "ref/netcore50/es/System.Reflection.xml",
+        "ref/netcore50/fr/System.Reflection.xml",
+        "ref/netcore50/it/System.Reflection.xml",
+        "ref/netcore50/ja/System.Reflection.xml",
+        "ref/netcore50/ko/System.Reflection.xml",
+        "ref/netcore50/ru/System.Reflection.xml",
+        "ref/netcore50/zh-hans/System.Reflection.xml",
+        "ref/netcore50/zh-hant/System.Reflection.xml",
+        "ref/netstandard1.0/System.Reflection.dll",
+        "ref/netstandard1.0/System.Reflection.xml",
+        "ref/netstandard1.0/de/System.Reflection.xml",
+        "ref/netstandard1.0/es/System.Reflection.xml",
+        "ref/netstandard1.0/fr/System.Reflection.xml",
+        "ref/netstandard1.0/it/System.Reflection.xml",
+        "ref/netstandard1.0/ja/System.Reflection.xml",
+        "ref/netstandard1.0/ko/System.Reflection.xml",
+        "ref/netstandard1.0/ru/System.Reflection.xml",
+        "ref/netstandard1.0/zh-hans/System.Reflection.xml",
+        "ref/netstandard1.0/zh-hant/System.Reflection.xml",
+        "ref/netstandard1.3/System.Reflection.dll",
+        "ref/netstandard1.3/System.Reflection.xml",
+        "ref/netstandard1.3/de/System.Reflection.xml",
+        "ref/netstandard1.3/es/System.Reflection.xml",
+        "ref/netstandard1.3/fr/System.Reflection.xml",
+        "ref/netstandard1.3/it/System.Reflection.xml",
+        "ref/netstandard1.3/ja/System.Reflection.xml",
+        "ref/netstandard1.3/ko/System.Reflection.xml",
+        "ref/netstandard1.3/ru/System.Reflection.xml",
+        "ref/netstandard1.3/zh-hans/System.Reflection.xml",
+        "ref/netstandard1.3/zh-hant/System.Reflection.xml",
+        "ref/netstandard1.5/System.Reflection.dll",
+        "ref/netstandard1.5/System.Reflection.xml",
+        "ref/netstandard1.5/de/System.Reflection.xml",
+        "ref/netstandard1.5/es/System.Reflection.xml",
+        "ref/netstandard1.5/fr/System.Reflection.xml",
+        "ref/netstandard1.5/it/System.Reflection.xml",
+        "ref/netstandard1.5/ja/System.Reflection.xml",
+        "ref/netstandard1.5/ko/System.Reflection.xml",
+        "ref/netstandard1.5/ru/System.Reflection.xml",
+        "ref/netstandard1.5/zh-hans/System.Reflection.xml",
+        "ref/netstandard1.5/zh-hant/System.Reflection.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.reflection.4.3.0.nupkg.sha512",
+        "system.reflection.nuspec"
+      ]
+    },
+    "System.Reflection.Emit/4.3.0": {
+      "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
+      "type": "package",
+      "path": "system.reflection.emit/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/monotouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.Reflection.Emit.dll",
+        "lib/netstandard1.3/System.Reflection.Emit.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/net45/_._",
+        "ref/netstandard1.1/System.Reflection.Emit.dll",
+        "ref/netstandard1.1/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/de/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/es/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/fr/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/it/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ja/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ko/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ru/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/zh-hans/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/zh-hant/System.Reflection.Emit.xml",
+        "ref/xamarinmac20/_._",
+        "system.reflection.emit.4.3.0.nupkg.sha512",
+        "system.reflection.emit.nuspec"
+      ]
+    },
+    "System.Reflection.Emit.ILGeneration/4.3.0": {
+      "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
+      "type": "package",
+      "path": "system.reflection.emit.ilgeneration/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.Reflection.Emit.ILGeneration.dll",
+        "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll",
+        "lib/portable-net45+wp8/_._",
+        "lib/wp80/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.dll",
+        "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/de/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/es/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/fr/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/it/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/ja/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/ko/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/ru/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/zh-hans/System.Reflection.Emit.ILGeneration.xml",
+        "ref/netstandard1.0/zh-hant/System.Reflection.Emit.ILGeneration.xml",
+        "ref/portable-net45+wp8/_._",
+        "ref/wp80/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/aot/lib/netcore50/_._",
+        "system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+        "system.reflection.emit.ilgeneration.nuspec"
+      ]
+    },
+    "System.Reflection.Primitives/4.3.0": {
+      "sha512": "5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+      "type": "package",
+      "path": "system.reflection.primitives/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Reflection.Primitives.dll",
+        "ref/netcore50/System.Reflection.Primitives.xml",
+        "ref/netcore50/de/System.Reflection.Primitives.xml",
+        "ref/netcore50/es/System.Reflection.Primitives.xml",
+        "ref/netcore50/fr/System.Reflection.Primitives.xml",
+        "ref/netcore50/it/System.Reflection.Primitives.xml",
+        "ref/netcore50/ja/System.Reflection.Primitives.xml",
+        "ref/netcore50/ko/System.Reflection.Primitives.xml",
+        "ref/netcore50/ru/System.Reflection.Primitives.xml",
+        "ref/netcore50/zh-hans/System.Reflection.Primitives.xml",
+        "ref/netcore50/zh-hant/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/System.Reflection.Primitives.dll",
+        "ref/netstandard1.0/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/de/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/es/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/fr/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/it/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/ja/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/ko/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/ru/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/zh-hans/System.Reflection.Primitives.xml",
+        "ref/netstandard1.0/zh-hant/System.Reflection.Primitives.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.reflection.primitives.4.3.0.nupkg.sha512",
+        "system.reflection.primitives.nuspec"
+      ]
+    },
+    "System.Runtime/4.3.0": {
+      "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "type": "package",
+      "path": "system.runtime/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net462/System.Runtime.dll",
+        "lib/portable-net45+win8+wp80+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net462/System.Runtime.dll",
+        "ref/netcore50/System.Runtime.dll",
+        "ref/netcore50/System.Runtime.xml",
+        "ref/netcore50/de/System.Runtime.xml",
+        "ref/netcore50/es/System.Runtime.xml",
+        "ref/netcore50/fr/System.Runtime.xml",
+        "ref/netcore50/it/System.Runtime.xml",
+        "ref/netcore50/ja/System.Runtime.xml",
+        "ref/netcore50/ko/System.Runtime.xml",
+        "ref/netcore50/ru/System.Runtime.xml",
+        "ref/netcore50/zh-hans/System.Runtime.xml",
+        "ref/netcore50/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.0/System.Runtime.dll",
+        "ref/netstandard1.0/System.Runtime.xml",
+        "ref/netstandard1.0/de/System.Runtime.xml",
+        "ref/netstandard1.0/es/System.Runtime.xml",
+        "ref/netstandard1.0/fr/System.Runtime.xml",
+        "ref/netstandard1.0/it/System.Runtime.xml",
+        "ref/netstandard1.0/ja/System.Runtime.xml",
+        "ref/netstandard1.0/ko/System.Runtime.xml",
+        "ref/netstandard1.0/ru/System.Runtime.xml",
+        "ref/netstandard1.0/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.0/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.2/System.Runtime.dll",
+        "ref/netstandard1.2/System.Runtime.xml",
+        "ref/netstandard1.2/de/System.Runtime.xml",
+        "ref/netstandard1.2/es/System.Runtime.xml",
+        "ref/netstandard1.2/fr/System.Runtime.xml",
+        "ref/netstandard1.2/it/System.Runtime.xml",
+        "ref/netstandard1.2/ja/System.Runtime.xml",
+        "ref/netstandard1.2/ko/System.Runtime.xml",
+        "ref/netstandard1.2/ru/System.Runtime.xml",
+        "ref/netstandard1.2/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.2/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.3/System.Runtime.dll",
+        "ref/netstandard1.3/System.Runtime.xml",
+        "ref/netstandard1.3/de/System.Runtime.xml",
+        "ref/netstandard1.3/es/System.Runtime.xml",
+        "ref/netstandard1.3/fr/System.Runtime.xml",
+        "ref/netstandard1.3/it/System.Runtime.xml",
+        "ref/netstandard1.3/ja/System.Runtime.xml",
+        "ref/netstandard1.3/ko/System.Runtime.xml",
+        "ref/netstandard1.3/ru/System.Runtime.xml",
+        "ref/netstandard1.3/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.3/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.5/System.Runtime.dll",
+        "ref/netstandard1.5/System.Runtime.xml",
+        "ref/netstandard1.5/de/System.Runtime.xml",
+        "ref/netstandard1.5/es/System.Runtime.xml",
+        "ref/netstandard1.5/fr/System.Runtime.xml",
+        "ref/netstandard1.5/it/System.Runtime.xml",
+        "ref/netstandard1.5/ja/System.Runtime.xml",
+        "ref/netstandard1.5/ko/System.Runtime.xml",
+        "ref/netstandard1.5/ru/System.Runtime.xml",
+        "ref/netstandard1.5/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.5/zh-hant/System.Runtime.xml",
+        "ref/portable-net45+win8+wp80+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.runtime.4.3.0.nupkg.sha512",
+        "system.runtime.nuspec"
+      ]
+    },
+    "System.Text.Encoding/4.3.0": {
+      "sha512": "BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+      "type": "package",
+      "path": "system.text.encoding/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Text.Encoding.dll",
+        "ref/netcore50/System.Text.Encoding.xml",
+        "ref/netcore50/de/System.Text.Encoding.xml",
+        "ref/netcore50/es/System.Text.Encoding.xml",
+        "ref/netcore50/fr/System.Text.Encoding.xml",
+        "ref/netcore50/it/System.Text.Encoding.xml",
+        "ref/netcore50/ja/System.Text.Encoding.xml",
+        "ref/netcore50/ko/System.Text.Encoding.xml",
+        "ref/netcore50/ru/System.Text.Encoding.xml",
+        "ref/netcore50/zh-hans/System.Text.Encoding.xml",
+        "ref/netcore50/zh-hant/System.Text.Encoding.xml",
+        "ref/netstandard1.0/System.Text.Encoding.dll",
+        "ref/netstandard1.0/System.Text.Encoding.xml",
+        "ref/netstandard1.0/de/System.Text.Encoding.xml",
+        "ref/netstandard1.0/es/System.Text.Encoding.xml",
+        "ref/netstandard1.0/fr/System.Text.Encoding.xml",
+        "ref/netstandard1.0/it/System.Text.Encoding.xml",
+        "ref/netstandard1.0/ja/System.Text.Encoding.xml",
+        "ref/netstandard1.0/ko/System.Text.Encoding.xml",
+        "ref/netstandard1.0/ru/System.Text.Encoding.xml",
+        "ref/netstandard1.0/zh-hans/System.Text.Encoding.xml",
+        "ref/netstandard1.0/zh-hant/System.Text.Encoding.xml",
+        "ref/netstandard1.3/System.Text.Encoding.dll",
+        "ref/netstandard1.3/System.Text.Encoding.xml",
+        "ref/netstandard1.3/de/System.Text.Encoding.xml",
+        "ref/netstandard1.3/es/System.Text.Encoding.xml",
+        "ref/netstandard1.3/fr/System.Text.Encoding.xml",
+        "ref/netstandard1.3/it/System.Text.Encoding.xml",
+        "ref/netstandard1.3/ja/System.Text.Encoding.xml",
+        "ref/netstandard1.3/ko/System.Text.Encoding.xml",
+        "ref/netstandard1.3/ru/System.Text.Encoding.xml",
+        "ref/netstandard1.3/zh-hans/System.Text.Encoding.xml",
+        "ref/netstandard1.3/zh-hant/System.Text.Encoding.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.text.encoding.4.3.0.nupkg.sha512",
+        "system.text.encoding.nuspec"
+      ]
+    },
+    "System.Threading.Tasks/4.3.0": {
+      "sha512": "LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+      "type": "package",
+      "path": "system.threading.tasks/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Threading.Tasks.dll",
+        "ref/netcore50/System.Threading.Tasks.xml",
+        "ref/netcore50/de/System.Threading.Tasks.xml",
+        "ref/netcore50/es/System.Threading.Tasks.xml",
+        "ref/netcore50/fr/System.Threading.Tasks.xml",
+        "ref/netcore50/it/System.Threading.Tasks.xml",
+        "ref/netcore50/ja/System.Threading.Tasks.xml",
+        "ref/netcore50/ko/System.Threading.Tasks.xml",
+        "ref/netcore50/ru/System.Threading.Tasks.xml",
+        "ref/netcore50/zh-hans/System.Threading.Tasks.xml",
+        "ref/netcore50/zh-hant/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/System.Threading.Tasks.dll",
+        "ref/netstandard1.0/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/de/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/es/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/fr/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/it/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ja/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ko/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ru/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/zh-hans/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/zh-hant/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/System.Threading.Tasks.dll",
+        "ref/netstandard1.3/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/de/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/es/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/fr/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/it/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ja/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ko/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ru/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/zh-hans/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/zh-hant/System.Threading.Tasks.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.threading.tasks.4.3.0.nupkg.sha512",
+        "system.threading.tasks.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Cosmos.Build >= 0.0.0-*",
+      "Cosmos.Debug.Kernel >= 0.0.0-*",
+      "Cosmos.System2 >= 0.0.0-*",
+      "pythonnet >= 3.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alexm\\.nuget\\packages\\": {},
+    "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alexm\\source\\repos\\AzureOS\\AzureOS\\AzureOS\\AzureOS.csproj",
+      "projectName": "AzureOS",
+      "projectPath": "C:\\Users\\alexm\\source\\repos\\AzureOS\\AzureOS\\AzureOS\\AzureOS.csproj",
+      "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexm\\source\\repos\\AzureOS\\AzureOS\\AzureOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\alexm\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Cosmos.Build": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          },
+          "Cosmos.Debug.Kernel": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          },
+          "Cosmos.System2": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          },
+          "pythonnet": {
+            "target": "Package",
+            "version": "[3.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

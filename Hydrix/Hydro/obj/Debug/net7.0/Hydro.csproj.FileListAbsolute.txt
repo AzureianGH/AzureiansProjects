@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Hydrix\Hydro\bin\Debug\net7.0\Hydro.exe
+C:\Users\alexm\source\repos\Hydrix\Hydro\bin\Debug\net7.0\Hydro.deps.json
+C:\Users\alexm\source\repos\Hydrix\Hydro\bin\Debug\net7.0\Hydro.runtimeconfig.json
+C:\Users\alexm\source\repos\Hydrix\Hydro\bin\Debug\net7.0\Hydro.dll
+C:\Users\alexm\source\repos\Hydrix\Hydro\bin\Debug\net7.0\Hydro.pdb
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.dll
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\refint\Hydro.dll
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.pdb
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\Hydro.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Hydrix\Hydro\obj\Debug\net7.0\ref\Hydro.dll

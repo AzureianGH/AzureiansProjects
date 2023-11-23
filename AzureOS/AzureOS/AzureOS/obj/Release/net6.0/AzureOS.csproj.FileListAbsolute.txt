@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\bin\Release\net6.0\AzureOS.deps.json
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\bin\Release\net6.0\AzureOS.dll
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\bin\Release\net6.0\AzureOS.pdb
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.AssemblyInfo.cs
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.dll
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\refint\AzureOS.dll
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\AzureOS.pdb
+C:\Users\alexm\source\repos\AzureOS\AzureOS\AzureOS\obj\Release\net6.0\ref\AzureOS.dll

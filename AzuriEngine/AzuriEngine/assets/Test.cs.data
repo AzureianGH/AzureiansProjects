@@ -1,0 +1,8 @@
+Type: Script (C#)
+Name: Test.cs
+Location: C:\Users\alexm\source\repos\AzuriEngine\AzuriEngine\assets\Test.cs
+Has Start: True
+Has UpdateFrame: True
+Has FixedUpdate: False
+Has LateUpdate: False
+Callables: Start, UpdateFrame

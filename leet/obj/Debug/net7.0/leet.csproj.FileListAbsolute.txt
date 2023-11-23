@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\leet\bin\Debug\net7.0\leet.exe
+C:\Users\alexm\source\repos\leet\bin\Debug\net7.0\leet.deps.json
+C:\Users\alexm\source\repos\leet\bin\Debug\net7.0\leet.runtimeconfig.json
+C:\Users\alexm\source\repos\leet\bin\Debug\net7.0\leet.dll
+C:\Users\alexm\source\repos\leet\bin\Debug\net7.0\leet.pdb
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.AssemblyInfo.cs
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.dll
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\refint\leet.dll
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.pdb
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\leet.genruntimeconfig.cache
+C:\Users\alexm\source\repos\leet\obj\Debug\net7.0\ref\leet.dll

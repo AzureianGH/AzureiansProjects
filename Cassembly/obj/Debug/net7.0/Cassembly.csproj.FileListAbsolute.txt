@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Cassembly\bin\Debug\net7.0\Cassembly.exe
+C:\Users\alexm\source\repos\Cassembly\bin\Debug\net7.0\Cassembly.deps.json
+C:\Users\alexm\source\repos\Cassembly\bin\Debug\net7.0\Cassembly.runtimeconfig.json
+C:\Users\alexm\source\repos\Cassembly\bin\Debug\net7.0\Cassembly.dll
+C:\Users\alexm\source\repos\Cassembly\bin\Debug\net7.0\Cassembly.pdb
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.dll
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\refint\Cassembly.dll
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.pdb
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\Cassembly.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Cassembly\obj\Debug\net7.0\ref\Cassembly.dll

@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(62,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(53,19): warning C4101: 'PtrPitch': unreferenced local variable
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(325,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(342,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(342,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(352,44): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(352,37): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\Source.cpp(362,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  D2DOverlay.lib(Source.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+D2DOverlay.lib(Source.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Source.obj
+D2DOverlay.lib(Source.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in Source.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\alexm\source\repos\Hydrix\unsigneddriver\x64\Debug\unsigneddriver.exe : fatal error LNK1319: 2 mismatches detected

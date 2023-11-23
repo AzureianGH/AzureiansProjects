@@ -1,0 +1,5 @@
+C:\Users\alexm\source\repos\Azuri\First Mod\obj\Release\netstandard2.0\First Mod.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\First Mod\obj\Release\netstandard2.0\First Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\First Mod\obj\Release\netstandard2.0\First Mod.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\First Mod\obj\Release\netstandard2.0\First Mod.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\First Mod\obj\Release\netstandard2.0\First Mod.csproj.CoreCompileInputs.cache

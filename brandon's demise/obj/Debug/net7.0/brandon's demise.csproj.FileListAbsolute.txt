@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\brandon's demise\bin\Debug\net7.0\brandon's demise.exe
+C:\Users\alexm\source\repos\brandon's demise\bin\Debug\net7.0\brandon's demise.deps.json
+C:\Users\alexm\source\repos\brandon's demise\bin\Debug\net7.0\brandon's demise.runtimeconfig.json
+C:\Users\alexm\source\repos\brandon's demise\bin\Debug\net7.0\brandon's demise.dll
+C:\Users\alexm\source\repos\brandon's demise\bin\Debug\net7.0\brandon's demise.pdb
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.AssemblyInfo.cs
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.dll
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\refint\brandon's demise.dll
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.pdb
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\brandon's demise.genruntimeconfig.cache
+C:\Users\alexm\source\repos\brandon's demise\obj\Debug\net7.0\ref\brandon's demise.dll

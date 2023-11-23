@@ -1,0 +1,13 @@
+C:\Users\alexm\source\repos\Azuri\elevate\bin\Release\net7.0\elevate.exe
+C:\Users\alexm\source\repos\Azuri\elevate\bin\Release\net7.0\elevate.deps.json
+C:\Users\alexm\source\repos\Azuri\elevate\bin\Release\net7.0\elevate.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri\elevate\bin\Release\net7.0\elevate.dll
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.dll
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\refint\elevate.dll
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\elevate.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri\elevate\obj\Release\net7.0\ref\elevate.dll

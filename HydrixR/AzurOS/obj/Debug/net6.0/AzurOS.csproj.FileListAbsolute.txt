@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\HydrixR\AzurOS\bin\Debug\net6.0\AzurOS.deps.json
+C:\Users\alexm\source\repos\HydrixR\AzurOS\bin\Debug\net6.0\AzurOS.dll
+C:\Users\alexm\source\repos\HydrixR\AzurOS\bin\Debug\net6.0\AzurOS.pdb
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.dll
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\refint\AzurOS.dll
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\AzurOS.pdb
+C:\Users\alexm\source\repos\HydrixR\AzurOS\obj\Debug\net6.0\ref\AzurOS.dll

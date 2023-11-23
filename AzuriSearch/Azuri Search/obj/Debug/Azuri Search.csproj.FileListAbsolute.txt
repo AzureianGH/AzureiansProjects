@@ -1,0 +1,20 @@
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\bin\Debug\Azuri Search.exe.manifest
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\bin\Debug\Azuri Search.xbap
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\bin\Debug\Azuri Search.exe
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\bin\Debug\Azuri Search.pdb
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Page1.g.cs
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\App.g.cs
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search_MarkupCompile.cache
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search_MarkupCompile.lref
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Page1.baml
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.g.resources
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri_Search.Properties.Resources.resources
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.TrustInfo.xml
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.exe.manifest
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.xbap
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.exe
+C:\Users\alexm\source\repos\AzuriSearch\Azuri Search\obj\Debug\Azuri Search.pdb

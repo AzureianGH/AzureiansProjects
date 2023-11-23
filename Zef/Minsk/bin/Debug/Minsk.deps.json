@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Minsk/1.0.0": {
+        "dependencies": {
+          "Microsoft.Net.Compilers.Toolset": "3.6.0-4.final",
+          "Mono.Cecil": "0.11.2",
+          "System.Collections.Immutable": "1.7.0"
+        },
+        "runtime": {
+          "Minsk.dll": {}
+        }
+      },
+      "Microsoft.Net.Compilers.Toolset/3.6.0-4.final": {},
+      "Mono.Cecil/0.11.2": {
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "assemblyVersion": "0.11.2.0",
+            "fileVersion": "0.11.2.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "assemblyVersion": "0.11.2.0",
+            "fileVersion": "0.11.2.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "assemblyVersion": "0.11.2.0",
+            "fileVersion": "0.11.2.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "assemblyVersion": "0.11.2.0",
+            "fileVersion": "0.11.2.0"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.7.0": {}
+    }
+  },
+  "libraries": {
+    "Minsk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Net.Compilers.Toolset/3.6.0-4.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNP0qEbHmtiJ0fPCQaQokqJmlVt8+MnM8if5GNgzFaPIoOTGONJITCoKgxaJG7cFzdOJ0vNJgKCyjv3YZ4NYvg==",
+      "path": "microsoft.net.compilers.toolset/3.6.0-4.final",
+      "hashPath": "microsoft.net.compilers.toolset.3.6.0-4.final.nupkg.sha512"
+    },
+    "Mono.Cecil/0.11.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZNAnXKQsOs/SZMFtT/e82/nA/iLgkeDy+sHD8xix4f0m9/3G0RNZplE1QHB+0n8QXq54jLqR/IPgVOkLapkyg==",
+      "path": "mono.cecil/0.11.2",
+      "hashPath": "mono.cecil.0.11.2.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RVSM6wZUo6L2y6P3vN6gjUtyJ2IF2RVtrepF3J7nrDKfFQd5u/SnSUFclchYQis8/k5scHy9E+fVeKVQLnnkzw==",
+      "path": "system.collections.immutable/1.7.0",
+      "hashPath": "system.collections.immutable.1.7.0.nupkg.sha512"
+    }
+  }
+}

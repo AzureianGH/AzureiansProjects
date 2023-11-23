@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\bin\Debug\net7.0\C#isbetter.exe
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\bin\Debug\net7.0\C#isbetter.deps.json
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\bin\Debug\net7.0\C#isbetter.runtimeconfig.json
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\bin\Debug\net7.0\C#isbetter.dll
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\bin\Debug\net7.0\C#isbetter.pdb
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.dll
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\refint\C#isbetter.dll
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.pdb
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\C#isbetter.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Hydrix\C#isbetter\obj\Debug\net7.0\ref\C#isbetter.dll

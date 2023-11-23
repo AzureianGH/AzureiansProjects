@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnX1Wh7UxqpriXJqifHTucEmxMYthbL6kp9BUQKie/hBfBnEe00F9OCAA1XUyyMoAbG8mpcVKZOdnWPKkZd+xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\Azure Shell\\Azure Shell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\chocolatey\\2.2.2\\chocolatey.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

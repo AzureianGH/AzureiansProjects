@@ -1,0 +1,9 @@
+C:\Users\alexm\source\repos\Zef\Minsk\bin\Debug\Minsk.deps.json
+C:\Users\alexm\source\repos\Zef\Minsk\bin\Debug\Minsk.dll
+C:\Users\alexm\source\repos\Zef\Minsk\bin\Debug\Minsk.pdb
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.dll
+C:\Users\alexm\source\repos\Zef\Minsk\obj\Debug\Minsk.pdb

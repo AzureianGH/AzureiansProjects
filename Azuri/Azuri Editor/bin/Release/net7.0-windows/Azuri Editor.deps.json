@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Azuri Editor/1.0.0": {
+        "dependencies": {
+          "ConsoleControl": "1.3.0",
+          "FastColoredTextBox.Net6": "1.0.0"
+        },
+        "runtime": {
+          "Azuri Editor.dll": {}
+        }
+      },
+      "ConsoleControl/1.3.0": {
+        "dependencies": {
+          "ConsoleControlAPI": "1.3.0"
+        },
+        "runtime": {
+          "lib/net40-client/ConsoleControl.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "ConsoleControlAPI/1.3.0": {
+        "runtime": {
+          "lib/net40/ConsoleControlAPI.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "FastColoredTextBox.Net6/1.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/FastColoredTextBox.dll": {
+            "assemblyVersion": "2.16.26.0",
+            "fileVersion": "2.16.26.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azuri Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleControl/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sjG9wCVN9TAKTzVDVesQfGDZEBruXe60ooCwuDpsjpmFtgA6rnh//QeXqhduR191lDrXoBOpZ2UdLLZvRzR+rw==",
+      "path": "consolecontrol/1.3.0",
+      "hashPath": "consolecontrol.1.3.0.nupkg.sha512"
+    },
+    "ConsoleControlAPI/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-swpP3ijJo7DJpN7mY8XIp+eddIDeEWrzCARgVle5Wn6xnsNiFStSGabrb2+NBfmztjPH1vwGMJscs3eBXLYzLw==",
+      "path": "consolecontrolapi/1.3.0",
+      "hashPath": "consolecontrolapi.1.3.0.nupkg.sha512"
+    },
+    "FastColoredTextBox.Net6/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tG7W1g74lddhHiJfrctCY5j6dNUskUc9CXFo3HG3A7u1JqzveUF5sRqSyFlO5LEbcCGXPbdeRap1fecXulQreg==",
+      "path": "fastcoloredtextbox.net6/1.0.0",
+      "hashPath": "fastcoloredtextbox.net6.1.0.0.nupkg.sha512"
+    }
+  }
+}

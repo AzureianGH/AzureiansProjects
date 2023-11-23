@@ -1,0 +1,366 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AzuriOS/1.0.0": {
+        "dependencies": {
+          "Cosmos.Build": "0.1.0-localbuild20221121055958",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "Cosmos.System2": "0.1.0-localbuild20221121060004",
+          "IronPython": "3.4.1",
+          "IronPython.StdLib": "3.4.1",
+          "PostSharp": "2023.0.6"
+        },
+        "runtime": {
+          "AzuriOS.dll": {}
+        }
+      },
+      "Cosmos.Build/0.1.0-localbuild20221121055958": {},
+      "Cosmos.Common/0.1.0-localbuild20221121060004": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Core/0.1.0-localbuild20221121060004": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Debug.Kernel/0.1.0-localbuild20221121060004": {
+        "runtime": {
+          "lib/netstandard2.0/Cosmos.Debug.Kernel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Cosmos.HAL2/0.1.0-localbuild20221121060004": {
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild20221121060004",
+          "Cosmos.Core": "0.1.0-localbuild20221121060004",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.HAL2.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Cosmos.System2/0.1.0-localbuild20221121060004": {
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild20221121060004",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
+          "Cosmos.HAL2": "0.1.0-localbuild20221121060004",
+          "IL2CPU.API": "0.1.0-localbuild20221121060004"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.System2.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "DynamicLanguageRuntime/1.3.4": {
+        "dependencies": {
+          "System.CodeDom": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Dynamic.dll": {
+            "assemblyVersion": "1.3.4.0",
+            "fileVersion": "1.3.4.1000"
+          },
+          "lib/net6.0/Microsoft.Scripting.Metadata.dll": {
+            "assemblyVersion": "1.3.4.0",
+            "fileVersion": "1.3.4.1000"
+          },
+          "lib/net6.0/Microsoft.Scripting.dll": {
+            "assemblyVersion": "1.3.4.0",
+            "fileVersion": "1.3.4.1000"
+          }
+        }
+      },
+      "IL2CPU.API/0.1.0-localbuild20221121060004": {
+        "runtime": {
+          "lib/netstandard2.0/IL2CPU.API.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "IronPython/3.4.1": {
+        "dependencies": {
+          "DynamicLanguageRuntime": "1.3.4",
+          "Mono.Unix": "7.1.0-final.1.21458.1"
+        },
+        "runtime": {
+          "lib/net6.0/IronPython.Modules.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.1000"
+          },
+          "lib/net6.0/IronPython.SQLite.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.1000"
+          },
+          "lib/net6.0/IronPython.Wpf.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.1000"
+          },
+          "lib/net6.0/IronPython.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.1000"
+          }
+        }
+      },
+      "IronPython.StdLib/3.4.1": {
+        "dependencies": {
+          "IronPython": "3.4.1"
+        }
+      },
+      "Mono.Unix/7.1.0-final.1.21458.1": {
+        "runtime": {
+          "lib/net6.0/Mono.Unix.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.100.21.45801"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/android-arm/native/libMono.Unix.so": {
+            "rid": "android-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/android-arm64/native/libMono.Unix.so": {
+            "rid": "android-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/android-x64/native/libMono.Unix.so": {
+            "rid": "android-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/android-x86/native/libMono.Unix.so": {
+            "rid": "android-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/ios-arm/native/libMono.Unix.a": {
+            "rid": "ios-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/ios-arm64/native/libMono.Unix.a": {
+            "rid": "ios-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/ios-armv7s/native/libMono.Unix.a": {
+            "rid": "ios-armv7s",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/iossimulator-arm64/native/libMono.Unix.a": {
+            "rid": "iossimulator-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/iossimulator-x64/native/libMono.Unix.a": {
+            "rid": "iossimulator-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm/native/libMono.Unix.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libMono.Unix.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libMono.Unix.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/maccatalyst-arm64/native/libMono.Unix.a": {
+            "rid": "maccatalyst-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/maccatalyst-x64/native/libMono.Unix.a": {
+            "rid": "maccatalyst-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/libMono.Unix.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libMono.Unix.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/tvos-arm64/native/libMono.Unix.a": {
+            "rid": "tvos-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/tvossimulator-x64/native/libMono.Unix.a": {
+            "rid": "tvossimulator-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "PostSharp/2023.0.6": {
+        "dependencies": {
+          "PostSharp.Redist": "2023.0.6"
+        }
+      },
+      "PostSharp.Redist/2023.0.6": {
+        "runtime": {
+          "lib/net6.0/PostSharp.dll": {
+            "assemblyVersion": "2023.0.6.0",
+            "fileVersion": "2023.0.6.0"
+          }
+        }
+      },
+      "System.CodeDom/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.CodeDom.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AzuriOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cosmos.Build/0.1.0-localbuild20221121055958": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mj39J7rWhTZPJdSrdKVBQt7HN/JeJwK/rslL3s91Y6skr1RvNcLzyiM074ZJdN4Wjz0N4GAZJOeZnX3NWNQRmg==",
+      "path": "cosmos.build/0.1.0-localbuild20221121055958",
+      "hashPath": "cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512"
+    },
+    "Cosmos.Common/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIPuNNaehxq2Hgzo8q24Rs36F9PVtU9mOQ/qb5OU5eGr/d2bbgSQGZFkBh7HOMRqhtWQvaUlEKjJbInOpZkx7A==",
+      "path": "cosmos.common/0.1.0-localbuild20221121060004",
+      "hashPath": "cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "Cosmos.Core/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xjn58k6ZzuoV+0pMRd1M8Q0nVOBL/bJ6hp/j5w6Sk5Cx0ZiJYRfaTbc0dqQZoSzX9EUj6+5JDHZmZyuKOWGgZg==",
+      "path": "cosmos.core/0.1.0-localbuild20221121060004",
+      "hashPath": "cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "Cosmos.Debug.Kernel/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dgbi2cQgplUwtGkRVTrqxWyFVz/lQHW5QIRUpOCLuOAuwLiMZGU1+ULwMJmmspHuq+8pcmMS9KAbopcNs8Fueg==",
+      "path": "cosmos.debug.kernel/0.1.0-localbuild20221121060004",
+      "hashPath": "cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "Cosmos.HAL2/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4xD9K+lUKQUD+XpFb3LcPHLt8Si8bWK4+bRdpdKOKRwYNWyfdVExKTfxt9WIhh4R/aETyQ31VuyudVAh4wjE8A==",
+      "path": "cosmos.hal2/0.1.0-localbuild20221121060004",
+      "hashPath": "cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "Cosmos.System2/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xolcbn5UxV/mkfFgpt96zyJ/QW7F6HsEdgMEfF9VSxakZSMsS+9LHS0tObkXNVbrvB2mOL8QCblgLTHkRXghUQ==",
+      "path": "cosmos.system2/0.1.0-localbuild20221121060004",
+      "hashPath": "cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "DynamicLanguageRuntime/1.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tYp2w0KSARfyn7MQhagCbHYLfnoVpKXRxhpZDngACq16cTkJyh4BudpI38M4xFRCD78hdYi6WHd7RZZJ96oNFg==",
+      "path": "dynamiclanguageruntime/1.3.4",
+      "hashPath": "dynamiclanguageruntime.1.3.4.nupkg.sha512"
+    },
+    "IL2CPU.API/0.1.0-localbuild20221121060004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5qwu24gFRI8hMkZStF77KlOmpdzHGFESVkR/WVxrAmtPKfBsSHXOQhpv0K6kZlTnJ6CNyz2ZGyAea+t0N6RbKg==",
+      "path": "il2cpu.api/0.1.0-localbuild20221121060004",
+      "hashPath": "il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+    },
+    "IronPython/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2CKriGKn8KAdEHTpV6umPaEA5kq2tod5npH1V07JeEetJO0PqNYLD7ovJcUB4ZfPVPhwdrlGkOeqyJx8EGGJVA==",
+      "path": "ironpython/3.4.1",
+      "hashPath": "ironpython.3.4.1.nupkg.sha512"
+    },
+    "IronPython.StdLib/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qrLtYSNWo46f6Xb/FC33KLYNHFSKABJXmYi35Dg1D3ET0GBX92YqtC/hX0CQuntWscGNJQ4Wm3Gjl8NiRoLWzw==",
+      "path": "ironpython.stdlib/3.4.1",
+      "hashPath": "ironpython.stdlib.3.4.1.nupkg.sha512"
+    },
+    "Mono.Unix/7.1.0-final.1.21458.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rhxz4A7By8Q0wEgDqR+mioDsYXGrcYMYPiWE9bSaUKMpG8yAGArhetEQV5Ms6KhKCLdQTlPYLBKPZYoKbAvT/g==",
+      "path": "mono.unix/7.1.0-final.1.21458.1",
+      "hashPath": "mono.unix.7.1.0-final.1.21458.1.nupkg.sha512"
+    },
+    "PostSharp/2023.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DcQxMa8sWvxnE118mWP5Jc2yBGmffemX3l2b9qHyDD3Sg4KWEXZtv5wn1w7NIMXo4oHqyfdyqjmA/odu+MBXnQ==",
+      "path": "postsharp/2023.0.6",
+      "hashPath": "postsharp.2023.0.6.nupkg.sha512"
+    },
+    "PostSharp.Redist/2023.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Is91u+CeMriw5AGrWRMR+oxJlr7k9GjnQXLnhqjF/h/EkvtpAQn9HS+01Io2HXNTe9nv/nsiFiWybG/jVmDA6g==",
+      "path": "postsharp.redist/2023.0.6",
+      "hashPath": "postsharp.redist.2023.0.6.nupkg.sha512"
+    },
+    "System.CodeDom/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CPc6tWO1LAer3IzfZufDBRL+UZQcj5uS207NHALQzP84Vp/z6wF0Aa0YZImOQY8iStY0A2zI/e3ihKNPfUm8XA==",
+      "path": "system.codedom/6.0.0",
+      "hashPath": "system.codedom.6.0.0.nupkg.sha512"
+    }
+  }
+}

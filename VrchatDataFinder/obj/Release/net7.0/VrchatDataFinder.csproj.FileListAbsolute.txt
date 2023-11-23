@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\VrchatDataFinder\bin\Release\net7.0\VrchatDataFinder.exe
+C:\Users\alexm\source\repos\VrchatDataFinder\bin\Release\net7.0\VrchatDataFinder.deps.json
+C:\Users\alexm\source\repos\VrchatDataFinder\bin\Release\net7.0\VrchatDataFinder.runtimeconfig.json
+C:\Users\alexm\source\repos\VrchatDataFinder\bin\Release\net7.0\VrchatDataFinder.dll
+C:\Users\alexm\source\repos\VrchatDataFinder\bin\Release\net7.0\VrchatDataFinder.pdb
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.AssemblyInfo.cs
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.dll
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\refint\VrchatDataFinder.dll
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.pdb
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\VrchatDataFinder.genruntimeconfig.cache
+C:\Users\alexm\source\repos\VrchatDataFinder\obj\Release\net7.0\ref\VrchatDataFinder.dll

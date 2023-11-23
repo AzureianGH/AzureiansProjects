@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\GeoRenderer\bin\Debug\net7.0-windows\GeoRenderer.exe
+C:\Users\alexm\source\repos\GeoRenderer\bin\Debug\net7.0-windows\GeoRenderer.deps.json
+C:\Users\alexm\source\repos\GeoRenderer\bin\Debug\net7.0-windows\GeoRenderer.runtimeconfig.json
+C:\Users\alexm\source\repos\GeoRenderer\bin\Debug\net7.0-windows\GeoRenderer.dll
+C:\Users\alexm\source\repos\GeoRenderer\bin\Debug\net7.0-windows\GeoRenderer.pdb
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.Form1.resources
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.AssemblyInfo.cs
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.dll
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\refint\GeoRenderer.dll
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.pdb
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\GeoRenderer.genruntimeconfig.cache
+C:\Users\alexm\source\repos\GeoRenderer\obj\Debug\net7.0-windows\ref\GeoRenderer.dll

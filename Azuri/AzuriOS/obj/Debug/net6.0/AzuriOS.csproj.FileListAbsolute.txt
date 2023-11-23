@@ -1,0 +1,14 @@
+C:\Users\alexm\source\repos\Azuri\AzuriOS\bin\Debug\net6.0\AzuriOS.deps.json
+C:\Users\alexm\source\repos\Azuri\AzuriOS\bin\Debug\net6.0\AzuriOS.dll
+C:\Users\alexm\source\repos\Azuri\AzuriOS\bin\Debug\net6.0\AzuriOS.pdb
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.Properties.Resources.resources
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.dll
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\refint\AzuriOS.dll
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\AzuriOS.pdb
+C:\Users\alexm\source\repos\Azuri\AzuriOS\obj\Debug\net6.0\ref\AzuriOS.dll

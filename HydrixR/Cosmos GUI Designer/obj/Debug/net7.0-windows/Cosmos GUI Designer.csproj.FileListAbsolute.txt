@@ -1,0 +1,18 @@
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\bin\Debug\net7.0-windows\Cosmos GUI Designer.exe
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\bin\Debug\net7.0-windows\Cosmos GUI Designer.deps.json
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\bin\Debug\net7.0-windows\Cosmos GUI Designer.runtimeconfig.json
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\bin\Debug\net7.0-windows\Cosmos GUI Designer.dll
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\bin\Debug\net7.0-windows\Cosmos GUI Designer.pdb
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos_GUI_Designer.Form1.resources
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.dll
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\refint\Cosmos GUI Designer.dll
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.pdb
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos GUI Designer.genruntimeconfig.cache
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\ref\Cosmos GUI Designer.dll
+C:\Users\alexm\source\repos\HydrixR\Cosmos GUI Designer\obj\Debug\net7.0-windows\Cosmos_GUI_Designer.Properties.Resources.resources

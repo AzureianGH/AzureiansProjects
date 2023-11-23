@@ -1,0 +1,17 @@
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\bin\Debug\net7.0-windows\Azuri Pixel Format.exe
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\bin\Debug\net7.0-windows\Azuri Pixel Format.deps.json
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\bin\Debug\net7.0-windows\Azuri Pixel Format.runtimeconfig.json
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\bin\Debug\net7.0-windows\Azuri Pixel Format.dll
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\bin\Debug\net7.0-windows\Azuri Pixel Format.pdb
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri_Pixel_Format.Form1.resources
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.AssemblyInfo.cs
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.dll
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\refint\Azuri Pixel Format.dll
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.pdb
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\Azuri Pixel Format.genruntimeconfig.cache
+C:\Users\alexm\source\repos\AT\Azuri Pixel Format\Azuri Pixel Format\obj\Debug\net7.0-windows\ref\Azuri Pixel Format.dll

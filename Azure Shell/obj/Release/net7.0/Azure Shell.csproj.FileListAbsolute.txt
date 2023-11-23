@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Azure Shell\bin\Release\net7.0\Azure Shell.exe
+C:\Users\alexm\source\repos\Azure Shell\bin\Release\net7.0\Azure Shell.deps.json
+C:\Users\alexm\source\repos\Azure Shell\bin\Release\net7.0\Azure Shell.runtimeconfig.json
+C:\Users\alexm\source\repos\Azure Shell\bin\Release\net7.0\Azure Shell.dll
+C:\Users\alexm\source\repos\Azure Shell\bin\Release\net7.0\Azure Shell.pdb
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.dll
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\refint\Azure Shell.dll
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.pdb
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\Azure Shell.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azure Shell\obj\Release\net7.0\ref\Azure Shell.dll

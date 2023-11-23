@@ -1,0 +1,20 @@
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\Azuri Editor.exe
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\Azuri Editor.deps.json
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\Azuri Editor.runtimeconfig.json
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\Azuri Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\ConsoleControl.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\ConsoleControlAPI.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\bin\Release\net7.0-windows\FastColoredTextBox.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri_Editor.AzuriEditor.resources
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri_Editor.Properties.Resources.resources
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.csproj.CopyComplete
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\refint\Azuri Editor.dll
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\Azuri Editor.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Azuri\Azuri Editor\obj\Release\net7.0-windows\ref\Azuri Editor.dll

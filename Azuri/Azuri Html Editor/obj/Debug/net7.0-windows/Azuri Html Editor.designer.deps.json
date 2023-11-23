@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HtmlRenderer.Core/1.5.0.6": {
+        "runtime": {
+          "lib/net45/HtmlRenderer.dll": {
+            "assemblyVersion": "1.5.0.6",
+            "fileVersion": "1.5.0.6"
+          }
+        }
+      },
+      "HtmlRenderer.WinForms/1.5.0.6": {
+        "dependencies": {
+          "HtmlRenderer.Core": "1.5.0.6"
+        },
+        "runtime": {
+          "lib/net45/HtmlRenderer.WinForms.dll": {
+            "assemblyVersion": "1.5.0.6",
+            "fileVersion": "1.5.0.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlRenderer.Core/1.5.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/WPVhzNmILIOJ1vtoiQXP7y7MJirCpHn/jqFw38wU0vv1XXbSpR2bTStmaiI2Pb2JLjnPMrVGR/7T7zKlAaaHw==",
+      "path": "htmlrenderer.core/1.5.0.6",
+      "hashPath": "htmlrenderer.core.1.5.0.6.nupkg.sha512"
+    },
+    "HtmlRenderer.WinForms/1.5.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yaaiNW2nMWQa9cwocR7jLy9/+3g/TomMszODWm8z9DCWxIYz6K5marKBw1YZHnpKA6xS/LQYB2YEikE1OqDQ8Q==",
+      "path": "htmlrenderer.winforms/1.5.0.6",
+      "hashPath": "htmlrenderer.winforms.1.5.0.6.nupkg.sha512"
+    }
+  }
+}
